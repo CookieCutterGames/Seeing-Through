@@ -11,7 +11,7 @@
 *.physicsMaterial2D merge=unityyamlmerge eol=lf
 *.physicMaterial merge=unityyamlmerge eol=lf
 *.asset merge=unityyamlmerge eol=lf
-*.meta merge=unityyamlmerge eol=lf
+*.meta merge=unityyamlmerge eol=lf linguist-generated=true
 *.controller merge=unityyamlmerge eol=lf
 
 
