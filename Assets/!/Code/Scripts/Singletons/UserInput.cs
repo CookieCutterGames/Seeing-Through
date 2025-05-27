@@ -28,6 +28,16 @@ public class UserInput : MonoBehaviour
     private InputAction _interactAction;
     private InputAction _menuOpenCloseAction;
 
+    public void DisableMovement()
+    {
+        _moveAction.Disable();
+    }
+
+    public void EnableMovement()
+    {
+        _moveAction.Enable();
+    }
+
     void SetupInputActions()
     {
         _moveAction = _playerInput.actions["Move"];
