@@ -1,3 +1,6 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -6,71 +9,64 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
     public float sprintMultiplier = 1.5f;
-    public float acceleration = 10f;
-    public float deceleration = 20f;
-    public float quickStartDuration = 0.1f;
-    public float quickStartAcceleration = 100f;
 
     private Rigidbody2D rb;
-    private InputAction sprintAction;
-    private Vector2 currentInput;
     private Vector2 targetVelocity;
-    private Vector2 velocity;
 
-    private float quickStartTimer = 0f;
-    private bool wasMoving = false;
+    private bool IsMoving;
+
+    public Action<bool> IsMovingValueChanged;
+
+    private Queue<Vector2> positionHistory = new();
+    private Vector2 lastFacingDirection;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        var moveAction = InputSystem.actions.FindAction("Move");
-
-        if (moveAction != null)
-        {
-            moveAction.performed += ctx => currentInput = ctx.ReadValue<Vector2>();
-            moveAction.canceled += ctx => currentInput = Vector2.zero;
-        }
-
-        sprintAction = InputSystem.actions.FindAction("Sprint");
     }
 
-    void FixedUpdate()
+    void Update()
     {
         float currentSpeed = moveSpeed;
 
-        if (sprintAction != null && sprintAction.IsPressed())
+        if (UserInput.Instance.SprintPressed)
         {
             currentSpeed *= sprintMultiplier;
         }
 
-        targetVelocity = currentInput * currentSpeed;
+        targetVelocity = UserInput.Instance.MoveInput * currentSpeed;
+        IsMoving = targetVelocity != Vector2.zero;
+        IsMovingValueChanged.Invoke(IsMoving);
+        rb.linearVelocity = targetVelocity;
+        UpdateRecentPositions();
+    }
 
-        bool isTryingToMove = currentInput.magnitude > 0.01f;
+    public void UpdateRecentPositions()
+    {
+        positionHistory.Enqueue(transform.position);
+        if (positionHistory.Count > 10)
+            positionHistory.Dequeue();
 
-        if (isTryingToMove && !wasMoving)
+        if (rb.linearVelocity != Vector2.zero)
         {
-            quickStartTimer = quickStartDuration;
+            lastFacingDirection = rb.linearVelocity.normalized;
         }
+    }
 
-        wasMoving = isTryingToMove;
-
-        float accelRate;
-
-        if (quickStartTimer > 0)
+    public List<Vector2> GetRecentPositions(int count)
+    {
+        List<Vector2> result = new List<Vector2>();
+        foreach (Vector2 pos in positionHistory)
         {
-            accelRate = quickStartAcceleration;
-            quickStartTimer -= Time.fixedDeltaTime;
+            if (result.Count >= count)
+                break;
+            result.Add(pos);
         }
-        else
-        {
-            accelRate = isTryingToMove ? acceleration : deceleration;
-        }
+        return result;
+    }
 
-        velocity = Vector2.MoveTowards(
-            rb.linearVelocity,
-            targetVelocity,
-            accelRate * Time.fixedDeltaTime
-        );
-        rb.linearVelocity = velocity;
+    public Vector2 GetFacingDirection()
+    {
+        return lastFacingDirection;
     }
 }

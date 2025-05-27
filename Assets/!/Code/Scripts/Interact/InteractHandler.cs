@@ -53,7 +53,8 @@ public class InteractHandler : MonoBehaviour
         }
         if (lastInteractableObject == null)
         {
-            InteractLabel.Instance.TurnOff();
+            if (InteractLabel.Instance != null)
+                InteractLabel.Instance.TurnOff();
         }
     }
 }

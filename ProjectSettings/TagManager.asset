@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - Floor
+  - HideSpot
   layers:
   - Default
   - TransparentFX
