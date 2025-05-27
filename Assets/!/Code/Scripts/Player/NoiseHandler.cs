@@ -4,13 +4,23 @@ using UnityEngine;
 public class NoiseHandler : MonoBehaviour
 {
     [SerializeField]
-    [Range(1, 10)]
-    private int noiseLevel;
+    [Range(0, 1)]
+    private float noiseLevel;
+    public bool IsMoving;
+    public bool IsHiding;
 
-    public int NoiseLevel
+    public float NoiseLevel
     {
         get { return noiseLevel; }
         set { noiseLevel = value; }
+    }
+
+    void Start()
+    {
+        Player.Instance.playerMovement.IsMovingValueChanged += value =>
+        {
+            IsMoving = value;
+        };
     }
 
     public void OnTriggerEnter2D(Collider2D collision)

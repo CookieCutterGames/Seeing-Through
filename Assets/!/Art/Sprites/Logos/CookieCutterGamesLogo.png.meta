@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 87fee264a07c41b4fa0af50e93755111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5051025536432637988
+    second: Cookie Cutter Games 1_0
+  - first:
+      213: 9213493739149672703
+    second: Cookie Cutter Games 1_1
+  - first:
+      213: -5952052769220739412
+    second: Cookie Cutter Games 1_2
+  - first:
+      213: -1555271290412715383
+    second: Cookie Cutter Games 1_3
+  - first:
+      213: 781762165636150858
+    second: Cookie Cutter Games 1_4
+  - first:
+      213: 8840460318524212403
+    second: Cookie Cutter Games 1_5
+  - first:
+      213: 59413952912847727
+    second: Cookie Cutter Games 1_6
+  - first:
+      213: -229036450096634091
+    second: Cookie Cutter Games 1_7
+  - first:
+      213: 5502874869957029463
+    second: Cookie Cutter Games 1_8
+  - first:
+      213: 962861812853187604
+    second: Cookie Cutter Games 1_9
+  - first:
+      213: 6366588226664620801
+    second: Cookie Cutter Games 1_10
+  - first:
+      213: -8843677637753756811
+    second: Cookie Cutter Games 1_11
+  - first:
+      213: -1576688187959347133
+    second: Cookie Cutter Games 1_12
+  - first:
+      213: -1554931493852316250
+    second: Cookie Cutter Games 1_13
+  - first:
+      213: -7493607394520838478
+    second: Cookie Cutter Games 1_14
+  - first:
+      213: 688963141244484467
+    second: Cookie Cutter Games 1_15
+  - first:
+      213: -613460162352004282
+    second: Cookie Cutter Games 1_16
+  - first:
+      213: 8309777409969726526
+    second: Cookie Cutter Games 1_17
+  - first:
+      213: 2503933968992340931
+    second: Cookie Cutter Games 1_18
+  - first:
+      213: -1812690343802667177
+    second: Cookie Cutter Games 1_19
+  - first:
+      213: 6432795252597400593
+    second: Cookie Cutter Games 1_20
+  - first:
+      213: 6974417756061634280
+    second: Cookie Cutter Games 1_21
+  - first:
+      213: 1433742248802928467
+    second: Cookie Cutter Games 1_22
+  - first:
+      213: -853570579301569020
+    second: Cookie Cutter Games 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 207
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4288e72c6f8d81640800000000000000
+      internalID: 5051025536432637988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 266
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff04d469db7ecdf70800000000000000
+      internalID: 9213493739149672703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeb73eaa8f066da0800000000000000
+      internalID: -5952052769220739412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_3
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 119
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982369560019a6ae0800000000000000
+      internalID: -1555271290412715383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 177
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4635953c8069da00800000000000000
+      internalID: 781762165636150858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4829822df9faa70800000000000000
+      internalID: 8840460318524212403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 78
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f637216eca413d000800000000000000
+      internalID: 59413952912847727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_7
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 90
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517af57ef8c42dcf0800000000000000
+      internalID: -229036450096634091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_8
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 104
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e663be9832e5c40800000000000000
+      internalID: 5502874869957029463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41427e2a7b5cc5d00800000000000000
+      internalID: 962861812853187604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1036781b24aaa5850800000000000000
+      internalID: 6366588226664620801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5732f955b02f44580800000000000000
+      internalID: -8843677637753756811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f02b527a7e1ae0800000000000000
+      internalID: -1576688187959347133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 36
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad7dd27b06cb6ae0800000000000000
+      internalID: -1554931493852316250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 36
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be485b07cb510890800000000000000
+      internalID: -7493607394520838478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bf631a350bf8900800000000000000
+      internalID: 688963141244484467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643c72b8b3d8c77f0800000000000000
+      internalID: -613460162352004282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 36
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34afcbf682425370800000000000000
+      internalID: 8309777409969726526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_18
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb82daada2cfb220800000000000000
+      internalID: 2503933968992340931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_19
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 36
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f7cd18cb708d6e0800000000000000
+      internalID: -1812690343802667177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_20
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 10
+        width: 95
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11423e72331e54950800000000000000
+      internalID: 6432795252597400593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee0b314ffb1ac060800000000000000
+      internalID: 6974417756061634280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4
+        width: 64
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3574e5f9afca5e310800000000000000
+      internalID: 1433742248802928467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cookie Cutter Games 1_23
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 10
+        width: 95
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e610e94128724f0800000000000000
+      internalID: -853570579301569020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cookie Cutter Games 1_0: 5051025536432637988
+      Cookie Cutter Games 1_1: 9213493739149672703
+      Cookie Cutter Games 1_10: 6366588226664620801
+      Cookie Cutter Games 1_11: -8843677637753756811
+      Cookie Cutter Games 1_12: -1576688187959347133
+      Cookie Cutter Games 1_13: -1554931493852316250
+      Cookie Cutter Games 1_14: -7493607394520838478
+      Cookie Cutter Games 1_15: 688963141244484467
+      Cookie Cutter Games 1_16: -613460162352004282
+      Cookie Cutter Games 1_17: 8309777409969726526
+      Cookie Cutter Games 1_18: 2503933968992340931
+      Cookie Cutter Games 1_19: -1812690343802667177
+      Cookie Cutter Games 1_2: -5952052769220739412
+      Cookie Cutter Games 1_20: 6432795252597400593
+      Cookie Cutter Games 1_21: 6974417756061634280
+      Cookie Cutter Games 1_22: 1433742248802928467
+      Cookie Cutter Games 1_23: -853570579301569020
+      Cookie Cutter Games 1_3: -1555271290412715383
+      Cookie Cutter Games 1_4: 781762165636150858
+      Cookie Cutter Games 1_5: 8840460318524212403
+      Cookie Cutter Games 1_6: 59413952912847727
+      Cookie Cutter Games 1_7: -229036450096634091
+      Cookie Cutter Games 1_8: 5502874869957029463
+      Cookie Cutter Games 1_9: 962861812853187604
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
