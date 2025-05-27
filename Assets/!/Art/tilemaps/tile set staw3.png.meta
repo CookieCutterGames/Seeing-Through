@@ -1,0 +1,7298 @@
+fileFormatVersion: 2
+guid: 650a906c983e3bc4594b33ea4ef7c33a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6460363254285880127
+    second: tile set staw3_0
+  - first:
+      213: -2673899051670566283
+    second: tile set staw3_1
+  - first:
+      213: -5612256065422193140
+    second: tile set staw3_2
+  - first:
+      213: -1029565534852614299
+    second: tile set staw3_3
+  - first:
+      213: 5166029266281870523
+    second: tile set staw3_4
+  - first:
+      213: 3306842905110052082
+    second: tile set staw3_5
+  - first:
+      213: -3738324391654172586
+    second: tile set staw3_6
+  - first:
+      213: -4034714146898474617
+    second: tile set staw3_7
+  - first:
+      213: -7523887618773290404
+    second: tile set staw3_8
+  - first:
+      213: -4966416125918189027
+    second: tile set staw3_9
+  - first:
+      213: -6009511322229550832
+    second: tile set staw3_10
+  - first:
+      213: -5958862492380753318
+    second: tile set staw3_11
+  - first:
+      213: 5384410582490412482
+    second: tile set staw3_12
+  - first:
+      213: 7720867946939814563
+    second: tile set staw3_13
+  - first:
+      213: 730902929361971855
+    second: tile set staw3_14
+  - first:
+      213: 4838260148788011010
+    second: tile set staw3_15
+  - first:
+      213: 2452185491888081882
+    second: tile set staw3_16
+  - first:
+      213: 6334627591219842477
+    second: tile set staw3_17
+  - first:
+      213: -8241233244029502030
+    second: tile set staw3_18
+  - first:
+      213: 3625588920938954892
+    second: tile set staw3_19
+  - first:
+      213: 6470941011739516989
+    second: tile set staw3_20
+  - first:
+      213: 7696916858393036873
+    second: tile set staw3_21
+  - first:
+      213: -638751473497415024
+    second: tile set staw3_22
+  - first:
+      213: 8060559031494212044
+    second: tile set staw3_23
+  - first:
+      213: -8474221804574740966
+    second: tile set staw3_24
+  - first:
+      213: 3702727294411015371
+    second: tile set staw3_25
+  - first:
+      213: 5221511394640692051
+    second: tile set staw3_26
+  - first:
+      213: -2385807393451837008
+    second: tile set staw3_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile set staw3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b42bbb622d7a950800000000000000
+      internalID: 6460363254285880127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a0cebbaf664ead0800000000000000
+      internalID: -2673899051670566283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e8affe7d24d12b0800000000000000
+      internalID: -5612256065422193140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567ff16d99f36b1f0800000000000000
+      internalID: -1029565534852614299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb4b0043f3c61b740800000000000000
+      internalID: 5166029266281870523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fcfa1f0a1444ed20800000000000000
+      internalID: 3306842905110052082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6585644b5cdce1cc0800000000000000
+      internalID: -3738324391654172586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7898fd73cd0d108c0800000000000000
+      internalID: -4034714146898474617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_8
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fe01f218c59790800000000000000
+      internalID: -7523887618773290404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aefdfb8deb31bb0800000000000000
+      internalID: -4966416125918189027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_10
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011d1dcca4de99ca0800000000000000
+      internalID: -6009511322229550832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a521f34722edd4da0800000000000000
+      internalID: -5958862492380753318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5f13e95e449ba40800000000000000
+      internalID: 5384410582490412482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a21c07ad78062b60800000000000000
+      internalID: 7720867946939814563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aa9ed7750b42a00800000000000000
+      internalID: 730902929361971855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200207b98f3f42340800000000000000
+      internalID: 4838260148788011010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb0b5f66b9e70220800000000000000
+      internalID: 2452185491888081882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad0c0f5b3e19e750800000000000000
+      internalID: 6334627591219842477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd3b7a470241ad80800000000000000
+      internalID: -8241233244029502030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8088261aeda05230800000000000000
+      internalID: 3625588920938954892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30ad3fc0966dc950800000000000000
+      internalID: 6470941011739516989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9488b3a4a11f0da60800000000000000
+      internalID: 7696916858393036873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092ed6a4be2b227f0800000000000000
+      internalID: -638751473497415024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc977438bbbdcdf60800000000000000
+      internalID: 8060559031494212044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ee376ca24856a80800000000000000
+      internalID: -8474221804574740966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4038b3bdab26330800000000000000
+      internalID: 3702727294411015371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353863cd2f8867840800000000000000
+      internalID: 5221511394640692051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97dc2f0d8e3eed0800000000000000
+      internalID: -2385807393451837008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4556e058aeef1241993b7ddd054662d
+      internalID: 960920026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46eae36ad3ae74c40a51e831aa1902c0
+      internalID: -508792677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a59011e0b52a7e4f8f2d09d90b3532f
+      internalID: 297627127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c75f78c00b98e8469be4c7539b278f9
+      internalID: -279193383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15d5b517a70349429ad7caeec16ec9b
+      internalID: -471504180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8465fe1428d9a234e8f525d6dd100c2f
+      internalID: 969589089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0df66ed72b3a4a44ac9deaa77928f7c
+      internalID: -124190872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dda2c999bba3fe439771ff7cf4f2a2a
+      internalID: 583639656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbec3b00bda40fe4bb95b079f1f6391b
+      internalID: 1165691250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfa32e537e054e4dabbd1a5b6910474
+      internalID: 1058189827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daffec5c00987a40987f8407e88da18
+      internalID: -360891320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_39
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1da269ebba76c4ba0461585eab0cdd
+      internalID: 513124564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_40
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da7d9698421930478ace4a2ff7364da
+      internalID: -1675562391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_41
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0c8795a0343de458752e282bb87202
+      internalID: 413068584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_42
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d605296822c10a479b74ef47b510459
+      internalID: 2022109784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642251bff3bd9a240b0735e51507ee4c
+      internalID: -412062536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_44
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61a004cd23d64d428706abdc7094c4b
+      internalID: -1433802511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167f42c9c4105d946ad56355a24196ac
+      internalID: -214984283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c29efcdf9ccd4c4291fd22fdaeab337
+      internalID: -1185369484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b266dd84d001148a788ad6325a15af
+      internalID: 687859511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_48
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234024e1b0870f749a2d99b72c366a3f
+      internalID: -1424502122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_49
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4f0c2b7a7837549a22f5d33f9b538e
+      internalID: -1272089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0d3cc272a00b741937880dc6a4bce0
+      internalID: 661467559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50265842a94c0443b2020f7991115e4
+      internalID: 1676386392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_52
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17774c2ee6563094692ed7b38f8d84ad
+      internalID: -1357322027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_53
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d72de8ff14c7a4e8ffed391389d7ee
+      internalID: -607689660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3379195e44ab31d4e80db4ef6685fde2
+      internalID: -1541410813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_55
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2325f171063d79d46ba3400c63f017fe
+      internalID: -1313851022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_56
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cb6610e05fbff479ac0cacd7534ed5
+      internalID: 425310799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_57
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37baf7096e51d0f4d9cae8118c9c3d25
+      internalID: 21144744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d123a7ca461926438e96f41fec81d89
+      internalID: 1033599555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_59
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdbe1fcd6797624bae0f3df3a260c88
+      internalID: 925394955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa0fa1cc5fca294da42fa586d2fc778
+      internalID: 2076783648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_61
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ac9036d9abb6847b3f2ae340f561a3
+      internalID: -94717572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f07be2c77fa04bbcfe3bf23e80803
+      internalID: 371945704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb77283a31b67f548adc296b2882da3a
+      internalID: 1731873095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_64
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915839b197c3cd04489404be2b85172f
+      internalID: 217662426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_65
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90e3f8039f11a0043b48a12fcd4fb0c2
+      internalID: 246219839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bf01bac2678074e9371f164c254aef
+      internalID: 121893148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_67
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70993cc580abe31448cd2a154ff62864
+      internalID: -138819997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_68
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3c5bcd8b681224aabe62f599059d25
+      internalID: 885187965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_69
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4518905eba8b0f947a29c65625bbc4b9
+      internalID: -1674358170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_70
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5632d24dafbf67841a1dac8a342be412
+      internalID: 1350473957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_71
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d087d2319f4d544873bc90253981b2
+      internalID: 460518233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_72
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112fb93a75a7d1645ac4434410883b5e
+      internalID: -1464448646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_73
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d051f5378ff6794b97cd9b1c6f9cb04
+      internalID: -821017235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_74
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59f4578310f59e45a4bab56114590cf
+      internalID: -314631350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_75
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0f5ba89be9d6443bd65500f6c3ef15
+      internalID: -1919466205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a792dcb637c2f42bb4168139e62d17
+      internalID: -1441377901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511de097b3326434c84719b050a38a3a
+      internalID: -1861462445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_78
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e64900e99d27a44bb25e2101589b93
+      internalID: 113713192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc67779d7a214544a41ccd5945f0fd9
+      internalID: 812174109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2daf992eb8f964facb499b7a911059
+      internalID: -1611278507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_81
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5cb233c2efc5844bedefaea113db8b
+      internalID: 984210227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906bccbb7032ae47a8a0cbaae24cf0d
+      internalID: -66271348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_83
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd57abf7a43ef048bd995d9f5eb9748
+      internalID: 1073191869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_84
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802e6dba49a41cf4bb0fb8fadab6ac32
+      internalID: 1407174950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_85
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a33d1a97212f741aa35f3f7b69e6a6
+      internalID: 1055932009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d620a5f0bfea448ab2a756248c747c
+      internalID: 2051807529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_87
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882bde4a176981a4da9c879029b0dd9f
+      internalID: -1675190694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212f01acca66c3649a2ca1cffda8648d
+      internalID: -1915956316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_89
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de28ca0584e6d4f81759fa5cf72df1
+      internalID: 1786127786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_90
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7b4ef75ddc5c4c9a15e7a01fa2a6d
+      internalID: 1431329731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_91
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39fd5a07ad4f6f4296b78f7acacffde
+      internalID: -1350337624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed0d93e547757549aa531f54d315c0a
+      internalID: -1594850045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133aa6ea336a4e468b48abd20131453
+      internalID: -1947809381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74f73192e40fee4fbde6259d2a7ae4a
+      internalID: -1239137074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_95
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a482544328570af49846c13bf3884f23
+      internalID: 1855494538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_96
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ae193908d17c44cb777f77fa7e3338
+      internalID: 223430889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_97
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57723624176abd7428f321502d539c1c
+      internalID: -964279480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_98
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7f847f4c7f644488f5cf5a78b604a5
+      internalID: 1578287018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_99
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0751ab2201cdd1d47ad204aea47b21a5
+      internalID: -1627942127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_100
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be56fa2eaaa618a408f2040379c767f1
+      internalID: 2121798682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_101
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ca546fcdc1ccf40bdbdfbfdc404842
+      internalID: -837142115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad40726261bd44e8136efe37f9c644
+      internalID: -959753810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_103
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e735e33e1b2bb5045ab57a4f3842df99
+      internalID: -1872645643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce046fdc8059b2b45b1eb89212e40080
+      internalID: -790325956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c5c5eb2b4bcc04e81d610232b459e2
+      internalID: -1608746015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1621be8a6d69dcd478faf04eb9265234
+      internalID: -1683789693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_107
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501e3c4df8195540867cf571fd0e085
+      internalID: 73471299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_108
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169dc030573cddd4781b07e9db6b14df
+      internalID: -1756409202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_109
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60984c931a989e244b7fa4659064c39f
+      internalID: -450010206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_110
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938ce25df7a716441820f989ab6692ce
+      internalID: 57563533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5efc8728fa95746a60c94da29b8250
+      internalID: 187984545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_112
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e74195a2e863624dad4c52fc4a302e9
+      internalID: -1800078322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_113
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 716
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a1954d38699e4583ed61ab2b3d2e2
+      internalID: -710414474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ae29651da5aef4abfabf2ffac55af5
+      internalID: -836206878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4989abbec46b84a9bf47e1df7e49fc
+      internalID: 900485844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e097cdd3cd983347a7ff0b99d20a48d
+      internalID: -1902395026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_117
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bc25220f5bb3c4c837e4d38693dea4
+      internalID: 1460941446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_118
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f726bc141664e9b458554251984a40b2
+      internalID: -1746865878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_119
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 652
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53bd7bc588e5074dbb47410031e7d81
+      internalID: -987457234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcb1b244801f7b4f97f5dd9b1953f7d
+      internalID: 1476896996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9032b2f878ab25b41b35305229b7b784
+      internalID: 1759622189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_122
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5e0e202e029764d8d46b83c389381b
+      internalID: -2026236247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_123
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc3ece04a071f448b44e653cae9a83
+      internalID: 607434843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_124
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbe36cd6219dde4fb5d33382387a1b5
+      internalID: 689698731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_125
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6635ff0c55a8aa14ba133bf8db83ac30
+      internalID: -1255864391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50b74d0af826624fbd1c61ee4b5de66
+      internalID: 1978426329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_127
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345cbb351af9e034eb05e793271f636e
+      internalID: 51753986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_128
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a9539f5a55df4419aff86a6c68281c
+      internalID: 1499521327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_129
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f771171b98c5f604f938581846ac99f5
+      internalID: 1637760301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_130
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c991b373958fa94db3d7b4f43379139
+      internalID: -1066903186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_131
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1723569710004796cd27ef9a58090
+      internalID: 637984931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_132
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3cd20a1bbc0704ca0e621146ed1e54
+      internalID: 525108391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_133
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb83f709328a44298ef6337aaf2747
+      internalID: -433601049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_134
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf194c0e602ba4b8a673810b84ca55
+      internalID: 787204641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_135
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f17c16ac4a963748ae14626c67609d0
+      internalID: 424019728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_136
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 588
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c579ca7392f874babc65eb672717f4
+      internalID: 9999225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_137
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d72677d1511174aaf12b2838c06057
+      internalID: -457277416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_138
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209aef4afd5472647bf10198605be0ae
+      internalID: 174813624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_139
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b188b1a7c31316d44ac42323d3ae91e7
+      internalID: 1492595450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_140
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d0b7a5a23386b4697da3d89da13fc2
+      internalID: -892922233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d37534e2ed78842ab36d668709628c
+      internalID: 107997604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe2db46bdc4f4949a39304fa56af38b
+      internalID: 2146542443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69ca2111d2c24448cc582429ce16da
+      internalID: -1984981521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_144
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9933c5a2946d944b823fb85086eb6d
+      internalID: -1200609617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_145
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8830ed56cd841b44e996f628c4033151
+      internalID: 1913003454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_146
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11afc9ac4d73524f89b8a56f33e2a65
+      internalID: 556683801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_147
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b5b6913090788468d2cb8e48f9527a
+      internalID: -955660893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_148
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb2100a91775f84eaf45ee04d99cca8
+      internalID: -431919832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_149
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e16e96f76a8474184c71749f0f75eb
+      internalID: 674537600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_150
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad2b70a87936c642bc85182e886f718
+      internalID: 1686573874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_151
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba46947859e083c40ade0aed97b48c2e
+      internalID: 1883061459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_152
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8024931c4abc0a418751ac5880377a2
+      internalID: -826807128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_153
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911f41fbd3d53146b391c84a7296391
+      internalID: -1895450742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_154
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2599ad47d6fa29419543c4c97866ee2
+      internalID: 3520584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_155
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 524
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd0943f5eaba1943b33bf1275adc69f
+      internalID: 1062176636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e3048cd58f9904dbd4b814eecd4cb3
+      internalID: 2015194586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a1e06cc2353774fa36c6b90ed414b5
+      internalID: 594486963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_158
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb04e301acd13434c97b0d49c0a76562
+      internalID: -109585595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_159
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c05af8b2d95de7448dd9aba5123467d
+      internalID: -224476670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_160
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422d9823da7aee14ab59abb7cada875d
+      internalID: -1138953793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_161
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313091e51227d6c4a9d9d787cb9f00f4
+      internalID: -1777791928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_162
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac7432eeec7c4459725afa5b6af640
+      internalID: -791431498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_163
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09baf42e1512b438a575e59df1afdb
+      internalID: -2080400964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4376a940d1c948744b9532897fda12e1
+      internalID: -352657302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_165
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dde6fb66d8ed9a4e8b1f8facb06cca3
+      internalID: -720659817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_166
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771282dcbc4ea5946b1cadbe9a073a59
+      internalID: 668076759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_167
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7cb4a13959e0247a545d950e458e09
+      internalID: 273304713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_168
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d1d021915e8cb43abb77d8d7a328f5
+      internalID: -1034165238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_169
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467b9288cec86874480d8821bcaba494
+      internalID: 411930535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_170
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3dd54bf8e8a954291fb4daba409774
+      internalID: 703605334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_171
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6e285007286e34fa052e49451a0cff
+      internalID: -903907754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d36efbb012a7994c9709fd616ea520a
+      internalID: -909058779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_173
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d835ac07124924d93e74291733f0c2
+      internalID: -2043432946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_174
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 460
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02d4f91143a84d45945c8c1d0b60afa
+      internalID: 459847217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d8286030db65438c4d94bb1faa0c1
+      internalID: 1190794520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_176
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113ede31fcf1ea04a9c76aed7e22a539
+      internalID: -1902282025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_177
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861b37c9252d98c499bec2b65a91d31e
+      internalID: 1659716714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_178
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e805ec9ea7003418ffd3d23b93647b
+      internalID: 1733449402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_179
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a72a7b93632ae46b6d0e78e5a37d38
+      internalID: -2031081708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_180
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021e2e22a07e6b4ba31f71c8dec0c69
+      internalID: 1982952204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_181
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e148e3891cd25414995545eee2063283
+      internalID: -594281036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_182
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d3fcd740e145c46a456bc4839a7ad7
+      internalID: 1288109823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_183
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0048de120487d3b419aec15f19e50e54
+      internalID: 417155980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_184
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cc43f9c28850a448af0112793067c2
+      internalID: 921041419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_185
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109e216375d239a47aaf01d1a556ba1b
+      internalID: -2095652117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_186
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ced56e13b807c4ea3bed53d9870067
+      internalID: -461685559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_187
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923d98245f7932140aa808b387c759ad
+      internalID: 827592248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_188
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ef255df91038c4e86907080526a3dc
+      internalID: 1008499052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_189
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7bebbdbd45a44fab21287ad66ba0f
+      internalID: -1526569278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_190
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb94d9758773284c8bf63a368c5700e
+      internalID: 192806644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_191
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77f33029eb285f49b870451f5ea2eb1
+      internalID: 62741169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_192
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39532a9740575124b8ec8ad248559fbe
+      internalID: 1585932328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_193
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 396
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2403ac24240c04da24403488091848
+      internalID: -158659231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ce843a8b48d1a45ac36c88e8a46a80
+      internalID: -463262696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_195
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068287f47fb202e46a78c17f9ce62f60
+      internalID: -1500411936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafae036c53a88c4fb90e1bed9bc53ff
+      internalID: 1734811288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_197
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2faeb414350c454e91735b7e337ee33
+      internalID: 1098784702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_198
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a119e93e6d3f94b951c4c286cae4eb
+      internalID: -1824683524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_199
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6f07a247820054e813451813b40062
+      internalID: -1249904801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_200
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52096d92ecb1c429217e1315ba45c5
+      internalID: -736006656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_201
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dce142518d9ab4c97ec34ec8b39e03
+      internalID: 1868829139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_202
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183305f2392954a4bba0026aaea9df39
+      internalID: -308743181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_203
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f70ebe4a76734b984871f1ecf2505
+      internalID: -1610419652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_204
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64494445c201aa942ba4fc81a1a1d342
+      internalID: -338020878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_205
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa6bc18e1c51754ebe23b9c34c03e81
+      internalID: -1027501850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_206
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71859ce944bd07e4db0616d5e7e93d24
+      internalID: 2094155512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_207
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720acae6616189245b8af3b98952a431
+      internalID: 1664462612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_208
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1b2360e3cba194db42449ba3ffae1b
+      internalID: 227173644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_209
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9573a8fab93ca9148a576bb32b4534df
+      internalID: -682463388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_210
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa64051b88b6f941a7669fcb0aff686
+      internalID: -169635192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_211
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bafd5672aafabc64981fcf97da9a4629
+      internalID: 829969285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_212
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 332
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5087b5677db66c34199735ac0f5f2d4e
+      internalID: -1264900813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_213
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09da9c3b90a31874bb9c7ab23debad45
+      internalID: -358579851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_214
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9227f8b3e3d39f0409f230b796810507
+      internalID: 2059393626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_215
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98c88457fa2e764dbf3152f684e1c77
+      internalID: -1327733846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_216
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfbe9efa00808749badff810994cfe4
+      internalID: -1300211780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_217
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36e10f4112f0d04c97d7c96564a4e59
+      internalID: -2076740991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a30ba53bfd5fe449a4e7dcb46c980c
+      internalID: -1079784963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_219
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8dc6680f72a0d439a43ed24b0b42e4
+      internalID: -554565954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_220
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de97acc4097ae46a0bbd8da48ac64f
+      internalID: 34724398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_221
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196a03e150581f8438da7906b2dee463
+      internalID: -1908718700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_222
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b6f26b49e8ef84ea96a3d036e1868a
+      internalID: -1302805534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_223
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0b244263ee6864dbe2fee36faba07f
+      internalID: -815275886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_224
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fe5dad791d89e4e9fa25dcebd34210
+      internalID: 19584925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_225
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228cd63e88d34a84385451536f63a217
+      internalID: -1916684797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_226
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5ba12a37fc164d92b19db9da4bcba
+      internalID: 1476917226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_227
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cb8d81b3ef705459e0711870ddf610
+      internalID: 1796994946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_228
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249669ee5be03d04785564d3d119eaa5
+      internalID: -737008439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_229
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aedf395c7df5749994aa952f87408d
+      internalID: -1553767019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_230
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55774d9b53ce859468ef52eda4814b7f
+      internalID: -437361504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_231
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 268
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5113bf4201589f4399c5802236c103c
+      internalID: 1558436484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_232
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e97ba0b4763c1040a439385edb6eceb
+      internalID: 1171895253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_233
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d8fe96b216ee4a81409875ffd905f
+      internalID: -883503243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_234
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253ac234cb4faa642897f801bf9b5f11
+      internalID: -1451359337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_235
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886aa9f94161a0e41ba6e6c9e19b8d5e
+      internalID: -506573113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_236
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb997ad1f10cdf4fb4eb898164c0391
+      internalID: 174062769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_237
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 791707d953f655549a4aa46f43c247f9
+      internalID: 1122451159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_238
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e777420ddff5c6d4bb856b9d0be3edcf
+      internalID: -1122382812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_239
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1edcfc136956a4a9712e2b2ae9707b
+      internalID: 1539516052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_240
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5a51a0985c06242b4ab280a9d19649
+      internalID: 613336966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_241
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5e71eac220b394c81abb29a3ed8892
+      internalID: 1058044745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_242
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1e07dbb528ad409d748a8051055c2
+      internalID: 762030009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_243
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227df12f5290b344e989987b6af2d1ab
+      internalID: -66936945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_244
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5a69d684d4bb14ca56d27acf227752
+      internalID: -1896069934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_245
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13a5cd9b8a8c84190c1f05e6b3c2ec
+      internalID: -1841321058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_246
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f66731dfc44d841a365e2617d69e11
+      internalID: -972409840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_247
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d898fc3030e21469b2b92f542f2a00
+      internalID: -803443978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_248
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb825f2d8afd16645a6b3937a9c2dcac
+      internalID: -832234003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_249
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca37c18752337d24f883fe0fe8d7a0ae
+      internalID: -1200660020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_250
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 204
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25387a97fe92e0948a6ac8973d10b75b
+      internalID: -1157994426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_251
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa966fa612e5c8240a032651c74af74b
+      internalID: -2012745778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_252
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0f7316c2c458a45bf023b12a4a4c66
+      internalID: 1879254620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_253
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403c6f73846dfbc4fa80575464a0b4fd
+      internalID: 508698945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_254
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e0806788d0df546abd59ea684af5be
+      internalID: 1332708606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_255
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae743ba755707294db58f4fdfc388468
+      internalID: -1226070735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_256
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761228850eb1afe4f80b99f459915081
+      internalID: -940007739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_257
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c2a8e9b60b00648a74e1665794b00f
+      internalID: -389800374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_258
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0318cc9bc0dd7439f02795a688bcb7
+      internalID: -1498673598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_259
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e299f5068d6111c49957e9219bd1df5c
+      internalID: 1422111706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_260
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f364d05af06ed3429cdfe50cf25d511
+      internalID: 1897197705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_261
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161baceb96ece804e9faa63f9742791b
+      internalID: -532941861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_262
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c16cf99cfcd9348964077ce0c693ab
+      internalID: 1087442294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_263
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a18948d749e0654da6746bae6fc5e93
+      internalID: -1611481160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_264
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aba8618942e80940ad12ecaf6807c5d
+      internalID: 546926029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_265
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26152c272cacd954a936eca2190cf592
+      internalID: -196380213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_266
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71d9c1e76545d84dba046681bf90e2c
+      internalID: 2034430164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_267
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9719383966c8ef64da1c734ca50202ad
+      internalID: -475058152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_268
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3efbf31f5145346b4558edd20d0091
+      internalID: 1264259939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_269
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 140
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7573f033df0e97e4dbc7f50f24cd0b2f
+      internalID: 1970823045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_270
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5899909e8a9df49b5b8679809fa65d
+      internalID: 441014393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_271
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c805265a4a80a4e85664b877c3cba3
+      internalID: -621049645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_272
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350e83e3a19e9614f90fe643e7ee3e21
+      internalID: -694557024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_273
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e330aaa47beb11547907d818cd5b81d0
+      internalID: -1934518754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_274
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45253b7181a900e4b9c049debf08eac9
+      internalID: 1371477424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_275
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793192ff255a08e4ab6e955c135c279f
+      internalID: 1250271266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_276
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce71fba4894e3f54f83768fbff1846db
+      internalID: 1240167840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_277
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce2c5ef5f421a84995415b8cf5ae8e6
+      internalID: -753584750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_278
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eea59e81a8ebc49a8899fab7fc8a6a
+      internalID: -667622519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_279
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172d59fda50c4cb4ab95279377e579cc
+      internalID: 2119451898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_280
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d99acb9d52d1468c9ab4ecf773c08
+      internalID: 508923021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_281
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ce6e20ec7e13049a7a387976e0391e
+      internalID: -1135598731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_282
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f91a9f7b93ec0346bf679829d465e52
+      internalID: -22184799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_283
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397aaef2864359644866128315f89c59
+      internalID: -1412348166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_284
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02822ef75e3b1424fb285f1f5251c553
+      internalID: 1249238147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_285
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9b1a1187538b4d9b93388bb863d7a
+      internalID: 814765726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_286
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2383f0ddddbe299408e13338b4e72b40
+      internalID: 122773924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_287
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95275b41643f8fb4fb3fbcce067c3d0a
+      internalID: 2092212760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_288
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 76
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c7602e23bc17c4a80cf3a078c528b9
+      internalID: -1202004491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_289
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10119c6a37719ca4798352fafdc937b6
+      internalID: 1635967458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_290
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfed88e3ae24ad468e942616e87f18e
+      internalID: 1842270827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_291
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e862f04f3cc7a1246a7120ea80ddc979
+      internalID: 1045135843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_292
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9909f4a407502f94aa7cb8a0cf841fcf
+      internalID: -799919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_293
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9ceb291679b76247b092127be27350b
+      internalID: -273370132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_294
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5b3fcef5bcc142872bbb18e12df25
+      internalID: 1349658903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_295
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979bc468485520e40ab6fae5ad6a41b2
+      internalID: 505805683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_296
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4104ea37da5feaa418f8864b7bb9d849
+      internalID: 735181619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_297
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ea99f576c8453428b12aeb40f12199
+      internalID: -1219209400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_298
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610400c13598a114aa1df7cb857646a5
+      internalID: -964157889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_299
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ed23dd334726d438e015352fdf8c67
+      internalID: 1898247340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_300
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6aaceab8e0b3342a99a036478da134
+      internalID: 1966898208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_301
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f6ae12e6c65644b854ee2243543f66
+      internalID: -1328132837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_302
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c1b06e87075824a912ecc0be2d2861
+      internalID: 1635239084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_303
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2fa1774781bc45a25adf3a8287f75
+      internalID: 653490557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_304
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ec1fa51a1d66d48a6b976f2b43bf87
+      internalID: -886539146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_305
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6930f43bbc2b4f45a7c4cc9e202aab2
+      internalID: -982244275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_306
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02b2f5b30f702b449ed911fc38d1d37
+      internalID: 1237093368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set staw3_307
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 12
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e1f7971b539f948b707ca03dc9a026
+      internalID: -1850445292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8171961ef7645084e86f9b14294e2591
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tile set staw3_0: 6460363254285880127
+      tile set staw3_1: -2673899051670566283
+      tile set staw3_10: -6009511322229550832
+      tile set staw3_100: 2121798682
+      tile set staw3_101: -837142115
+      tile set staw3_102: -959753810
+      tile set staw3_103: -1872645643
+      tile set staw3_104: -790325956
+      tile set staw3_105: -1608746015
+      tile set staw3_106: -1683789693
+      tile set staw3_107: 73471299
+      tile set staw3_108: -1756409202
+      tile set staw3_109: -450010206
+      tile set staw3_11: -5958862492380753318
+      tile set staw3_110: 57563533
+      tile set staw3_111: 187984545
+      tile set staw3_112: -1800078322
+      tile set staw3_113: -710414474
+      tile set staw3_114: -836206878
+      tile set staw3_115: 900485844
+      tile set staw3_116: -1902395026
+      tile set staw3_117: 1460941446
+      tile set staw3_118: -1746865878
+      tile set staw3_119: -987457234
+      tile set staw3_12: 5384410582490412482
+      tile set staw3_120: 1476896996
+      tile set staw3_121: 1759622189
+      tile set staw3_122: -2026236247
+      tile set staw3_123: 607434843
+      tile set staw3_124: 689698731
+      tile set staw3_125: -1255864391
+      tile set staw3_126: 1978426329
+      tile set staw3_127: 51753986
+      tile set staw3_128: 1499521327
+      tile set staw3_129: 1637760301
+      tile set staw3_13: 7720867946939814563
+      tile set staw3_130: -1066903186
+      tile set staw3_131: 637984931
+      tile set staw3_132: 525108391
+      tile set staw3_133: -433601049
+      tile set staw3_134: 787204641
+      tile set staw3_135: 424019728
+      tile set staw3_136: 9999225
+      tile set staw3_137: -457277416
+      tile set staw3_138: 174813624
+      tile set staw3_139: 1492595450
+      tile set staw3_14: 730902929361971855
+      tile set staw3_140: -892922233
+      tile set staw3_141: 107997604
+      tile set staw3_142: 2146542443
+      tile set staw3_143: -1984981521
+      tile set staw3_144: -1200609617
+      tile set staw3_145: 1913003454
+      tile set staw3_146: 556683801
+      tile set staw3_147: -955660893
+      tile set staw3_148: -431919832
+      tile set staw3_149: 674537600
+      tile set staw3_15: 4838260148788011010
+      tile set staw3_150: 1686573874
+      tile set staw3_151: 1883061459
+      tile set staw3_152: -826807128
+      tile set staw3_153: -1895450742
+      tile set staw3_154: 3520584
+      tile set staw3_155: 1062176636
+      tile set staw3_156: 2015194586
+      tile set staw3_157: 594486963
+      tile set staw3_158: -109585595
+      tile set staw3_159: -224476670
+      tile set staw3_16: 2452185491888081882
+      tile set staw3_160: -1138953793
+      tile set staw3_161: -1777791928
+      tile set staw3_162: -791431498
+      tile set staw3_163: -2080400964
+      tile set staw3_164: -352657302
+      tile set staw3_165: -720659817
+      tile set staw3_166: 668076759
+      tile set staw3_167: 273304713
+      tile set staw3_168: -1034165238
+      tile set staw3_169: 411930535
+      tile set staw3_17: 6334627591219842477
+      tile set staw3_170: 703605334
+      tile set staw3_171: -903907754
+      tile set staw3_172: -909058779
+      tile set staw3_173: -2043432946
+      tile set staw3_174: 459847217
+      tile set staw3_175: 1190794520
+      tile set staw3_176: -1902282025
+      tile set staw3_177: 1659716714
+      tile set staw3_178: 1733449402
+      tile set staw3_179: -2031081708
+      tile set staw3_18: -8241233244029502030
+      tile set staw3_180: 1982952204
+      tile set staw3_181: -594281036
+      tile set staw3_182: 1288109823
+      tile set staw3_183: 417155980
+      tile set staw3_184: 921041419
+      tile set staw3_185: -2095652117
+      tile set staw3_186: -461685559
+      tile set staw3_187: 827592248
+      tile set staw3_188: 1008499052
+      tile set staw3_189: -1526569278
+      tile set staw3_19: 3625588920938954892
+      tile set staw3_190: 192806644
+      tile set staw3_191: 62741169
+      tile set staw3_192: 1585932328
+      tile set staw3_193: -158659231
+      tile set staw3_194: -463262696
+      tile set staw3_195: -1500411936
+      tile set staw3_196: 1734811288
+      tile set staw3_197: 1098784702
+      tile set staw3_198: -1824683524
+      tile set staw3_199: -1249904801
+      tile set staw3_2: -5612256065422193140
+      tile set staw3_20: 6470941011739516989
+      tile set staw3_200: -736006656
+      tile set staw3_201: 1868829139
+      tile set staw3_202: -308743181
+      tile set staw3_203: -1610419652
+      tile set staw3_204: -338020878
+      tile set staw3_205: -1027501850
+      tile set staw3_206: 2094155512
+      tile set staw3_207: 1664462612
+      tile set staw3_208: 227173644
+      tile set staw3_209: -682463388
+      tile set staw3_21: 7696916858393036873
+      tile set staw3_210: -169635192
+      tile set staw3_211: 829969285
+      tile set staw3_212: -1264900813
+      tile set staw3_213: -358579851
+      tile set staw3_214: 2059393626
+      tile set staw3_215: -1327733846
+      tile set staw3_216: -1300211780
+      tile set staw3_217: -2076740991
+      tile set staw3_218: -1079784963
+      tile set staw3_219: -554565954
+      tile set staw3_22: -638751473497415024
+      tile set staw3_220: 34724398
+      tile set staw3_221: -1908718700
+      tile set staw3_222: -1302805534
+      tile set staw3_223: -815275886
+      tile set staw3_224: 19584925
+      tile set staw3_225: -1916684797
+      tile set staw3_226: 1476917226
+      tile set staw3_227: 1796994946
+      tile set staw3_228: -737008439
+      tile set staw3_229: -1553767019
+      tile set staw3_23: 8060559031494212044
+      tile set staw3_230: -437361504
+      tile set staw3_231: 1558436484
+      tile set staw3_232: 1171895253
+      tile set staw3_233: -883503243
+      tile set staw3_234: -1451359337
+      tile set staw3_235: -506573113
+      tile set staw3_236: 174062769
+      tile set staw3_237: 1122451159
+      tile set staw3_238: -1122382812
+      tile set staw3_239: 1539516052
+      tile set staw3_24: -8474221804574740966
+      tile set staw3_240: 613336966
+      tile set staw3_241: 1058044745
+      tile set staw3_242: 762030009
+      tile set staw3_243: -66936945
+      tile set staw3_244: -1896069934
+      tile set staw3_245: -1841321058
+      tile set staw3_246: -972409840
+      tile set staw3_247: -803443978
+      tile set staw3_248: -832234003
+      tile set staw3_249: -1200660020
+      tile set staw3_25: 3702727294411015371
+      tile set staw3_250: -1157994426
+      tile set staw3_251: -2012745778
+      tile set staw3_252: 1879254620
+      tile set staw3_253: 508698945
+      tile set staw3_254: 1332708606
+      tile set staw3_255: -1226070735
+      tile set staw3_256: -940007739
+      tile set staw3_257: -389800374
+      tile set staw3_258: -1498673598
+      tile set staw3_259: 1422111706
+      tile set staw3_26: 5221511394640692051
+      tile set staw3_260: 1897197705
+      tile set staw3_261: -532941861
+      tile set staw3_262: 1087442294
+      tile set staw3_263: -1611481160
+      tile set staw3_264: 546926029
+      tile set staw3_265: -196380213
+      tile set staw3_266: 2034430164
+      tile set staw3_267: -475058152
+      tile set staw3_268: 1264259939
+      tile set staw3_269: 1970823045
+      tile set staw3_27: -2385807393451837008
+      tile set staw3_270: 441014393
+      tile set staw3_271: -621049645
+      tile set staw3_272: -694557024
+      tile set staw3_273: -1934518754
+      tile set staw3_274: 1371477424
+      tile set staw3_275: 1250271266
+      tile set staw3_276: 1240167840
+      tile set staw3_277: -753584750
+      tile set staw3_278: -667622519
+      tile set staw3_279: 2119451898
+      tile set staw3_28: 960920026
+      tile set staw3_280: 508923021
+      tile set staw3_281: -1135598731
+      tile set staw3_282: -22184799
+      tile set staw3_283: -1412348166
+      tile set staw3_284: 1249238147
+      tile set staw3_285: 814765726
+      tile set staw3_286: 122773924
+      tile set staw3_287: 2092212760
+      tile set staw3_288: -1202004491
+      tile set staw3_289: 1635967458
+      tile set staw3_29: -508792677
+      tile set staw3_290: 1842270827
+      tile set staw3_291: 1045135843
+      tile set staw3_292: -799919709
+      tile set staw3_293: -273370132
+      tile set staw3_294: 1349658903
+      tile set staw3_295: 505805683
+      tile set staw3_296: 735181619
+      tile set staw3_297: -1219209400
+      tile set staw3_298: -964157889
+      tile set staw3_299: 1898247340
+      tile set staw3_3: -1029565534852614299
+      tile set staw3_30: 297627127
+      tile set staw3_300: 1966898208
+      tile set staw3_301: -1328132837
+      tile set staw3_302: 1635239084
+      tile set staw3_303: 653490557
+      tile set staw3_304: -886539146
+      tile set staw3_305: -982244275
+      tile set staw3_306: 1237093368
+      tile set staw3_307: -1850445292
+      tile set staw3_31: -279193383
+      tile set staw3_32: -471504180
+      tile set staw3_33: 969589089
+      tile set staw3_34: -124190872
+      tile set staw3_35: 583639656
+      tile set staw3_36: 1165691250
+      tile set staw3_37: 1058189827
+      tile set staw3_38: -360891320
+      tile set staw3_39: 513124564
+      tile set staw3_4: 5166029266281870523
+      tile set staw3_40: -1675562391
+      tile set staw3_41: 413068584
+      tile set staw3_42: 2022109784
+      tile set staw3_43: -412062536
+      tile set staw3_44: -1433802511
+      tile set staw3_45: -214984283
+      tile set staw3_46: -1185369484
+      tile set staw3_47: 687859511
+      tile set staw3_48: -1424502122
+      tile set staw3_49: -1272089
+      tile set staw3_5: 3306842905110052082
+      tile set staw3_50: 661467559
+      tile set staw3_51: 1676386392
+      tile set staw3_52: -1357322027
+      tile set staw3_53: -607689660
+      tile set staw3_54: -1541410813
+      tile set staw3_55: -1313851022
+      tile set staw3_56: 425310799
+      tile set staw3_57: 21144744
+      tile set staw3_58: 1033599555
+      tile set staw3_59: 925394955
+      tile set staw3_6: -3738324391654172586
+      tile set staw3_60: 2076783648
+      tile set staw3_61: -94717572
+      tile set staw3_62: 371945704
+      tile set staw3_63: 1731873095
+      tile set staw3_64: 217662426
+      tile set staw3_65: 246219839
+      tile set staw3_66: 121893148
+      tile set staw3_67: -138819997
+      tile set staw3_68: 885187965
+      tile set staw3_69: -1674358170
+      tile set staw3_7: -4034714146898474617
+      tile set staw3_70: 1350473957
+      tile set staw3_71: 460518233
+      tile set staw3_72: -1464448646
+      tile set staw3_73: -821017235
+      tile set staw3_74: -314631350
+      tile set staw3_75: -1919466205
+      tile set staw3_76: -1441377901
+      tile set staw3_77: -1861462445
+      tile set staw3_78: 113713192
+      tile set staw3_79: 812174109
+      tile set staw3_8: -7523887618773290404
+      tile set staw3_80: -1611278507
+      tile set staw3_81: 984210227
+      tile set staw3_82: -66271348
+      tile set staw3_83: 1073191869
+      tile set staw3_84: 1407174950
+      tile set staw3_85: 1055932009
+      tile set staw3_86: 2051807529
+      tile set staw3_87: -1675190694
+      tile set staw3_88: -1915956316
+      tile set staw3_89: 1786127786
+      tile set staw3_9: -4966416125918189027
+      tile set staw3_90: 1431329731
+      tile set staw3_91: -1350337624
+      tile set staw3_92: -1594850045
+      tile set staw3_93: -1947809381
+      tile set staw3_94: -1239137074
+      tile set staw3_95: 1855494538
+      tile set staw3_96: 223430889
+      tile set staw3_97: -964279480
+      tile set staw3_98: 1578287018
+      tile set staw3_99: -1627942127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
