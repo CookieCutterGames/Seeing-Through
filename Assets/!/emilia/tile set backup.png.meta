@@ -1,0 +1,1207 @@
+fileFormatVersion: 2
+guid: 19605b441e9cd5c46bc14e98be819c29
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2619317095463044453
+    second: tile set backup_0
+  - first:
+      213: 2065144211555893715
+    second: tile set backup_1
+  - first:
+      213: -8031539039123128662
+    second: tile set backup_2
+  - first:
+      213: 5206977384357583930
+    second: tile set backup_3
+  - first:
+      213: -571883644790557405
+    second: tile set backup_4
+  - first:
+      213: 8907046579542446165
+    second: tile set backup_5
+  - first:
+      213: 3034895390862693140
+    second: tile set backup_6
+  - first:
+      213: 6015125978335616309
+    second: tile set backup_7
+  - first:
+      213: -2207865667032181462
+    second: tile set backup_8
+  - first:
+      213: -3522990382581906807
+    second: tile set backup_9
+  - first:
+      213: 162133833754520109
+    second: tile set backup_10
+  - first:
+      213: -7580025459237131713
+    second: tile set backup_11
+  - first:
+      213: 5581720294336986255
+    second: tile set backup_12
+  - first:
+      213: -3976661821773481103
+    second: tile set backup_13
+  - first:
+      213: 8068617093177753493
+    second: tile set backup_14
+  - first:
+      213: 5458462119536038071
+    second: tile set backup_15
+  - first:
+      213: -7270790844128834569
+    second: tile set backup_16
+  - first:
+      213: -6744966583581803475
+    second: tile set backup_17
+  - first:
+      213: -2334842876380859594
+    second: tile set backup_18
+  - first:
+      213: -7703908144937099936
+    second: tile set backup_19
+  - first:
+      213: 9133450661501989375
+    second: tile set backup_20
+  - first:
+      213: 2630064690710712826
+    second: tile set backup_21
+  - first:
+      213: -3929829951061824129
+    second: tile set backup_22
+  - first:
+      213: -3505824227210177990
+    second: tile set backup_23
+  - first:
+      213: 4669154444065210514
+    second: tile set backup_24
+  - first:
+      213: 8175712220177191797
+    second: tile set backup_25
+  - first:
+      213: -4870716083107546468
+    second: tile set backup_26
+  - first:
+      213: -1853620919094613136
+    second: tile set backup_27
+  - first:
+      213: -1095949922260909837
+    second: tile set backup_28
+  - first:
+      213: -2350355409371487899
+    second: tile set backup_29
+  - first:
+      213: -16739640934610688
+    second: tile set backup_30
+  - first:
+      213: 7841342829267115586
+    second: tile set backup_31
+  - first:
+      213: -8535944117107993367
+    second: tile set backup_32
+  - first:
+      213: -246195761292645131
+    second: tile set backup_33
+  - first:
+      213: -6955047420851279988
+    second: tile set backup_34
+  - first:
+      213: 8086721044442250610
+    second: tile set backup_35
+  - first:
+      213: 5618294712058584676
+    second: tile set backup_36
+  - first:
+      213: -7928284802494393629
+    second: tile set backup_37
+  - first:
+      213: -6734186897551784378
+    second: tile set backup_38
+  - first:
+      213: -1530345181488435239
+    second: tile set backup_39
+  - first:
+      213: -1369888442690753282
+    second: tile set backup_40
+  - first:
+      213: 7927815566123592887
+    second: tile set backup_41
+  - first:
+      213: 2366216892483905505
+    second: tile set backup_42
+  - first:
+      213: -6944058161292303441
+    second: tile set backup_43
+  - first:
+      213: 2264383887708688186
+    second: tile set backup_44
+  - first:
+      213: -8355202759153618055
+    second: tile set backup_45
+  - first:
+      213: -8536323570599048103
+    second: tile set backup_46
+  - first:
+      213: -4706756435599984921
+    second: tile set backup_47
+  - first:
+      213: 6621274049000134414
+    second: tile set backup_48
+  - first:
+      213: -7576183373709703731
+    second: tile set backup_49
+  - first:
+      213: -8758092300530280439
+    second: tile set backup_50
+  - first:
+      213: 8617894788252338664
+    second: tile set backup_51
+  - first:
+      213: 7911703863424505450
+    second: tile set backup_52
+  - first:
+      213: -4768307581223716568
+    second: tile set backup_53
+  - first:
+      213: -4733543694634481740
+    second: tile set backup_54
+  - first:
+      213: -4930240028658170141
+    second: tile set backup_55
+  - first:
+      213: 7273508318656714471
+    second: tile set backup_56
+  - first:
+      213: -7175069881828153195
+    second: tile set backup_57
+  - first:
+      213: -4618001359809474449
+    second: tile set backup_58
+  - first:
+      213: 9078625216682042648
+    second: tile set backup_59
+  - first:
+      213: 2707015862283043249
+    second: tile set backup_60
+  - first:
+      213: -5721789187310876194
+    second: tile set backup_61
+  - first:
+      213: -9018596990867940246
+    second: tile set backup_62
+  - first:
+      213: 5085010287435802509
+    second: tile set backup_63
+  - first:
+      213: -2255545063567046571
+    second: tile set backup_64
+  - first:
+      213: -195995997111235118
+    second: tile set backup_65
+  - first:
+      213: -214846328267083108
+    second: tile set backup_66
+  - first:
+      213: 5927071554886815903
+    second: tile set backup_67
+  - first:
+      213: 2050925467631406321
+    second: tile set backup_68
+  - first:
+      213: 8713206692652625308
+    second: tile set backup_69
+  - first:
+      213: -2538021285211206332
+    second: tile set backup_70
+  - first:
+      213: 735285190301279174
+    second: tile set backup_71
+  - first:
+      213: 2249760786061676726
+    second: tile set backup_72
+  - first:
+      213: 236413285405395481
+    second: tile set backup_73
+  - first:
+      213: 6569075330882563546
+    second: tile set backup_74
+  - first:
+      213: 8210601649659001623
+    second: tile set backup_75
+  - first:
+      213: 6104642795612755995
+    second: tile set backup_76
+  - first:
+      213: 7070811710241814562
+    second: tile set backup_77
+  - first:
+      213: -3122126625699546755
+    second: tile set backup_78
+  - first:
+      213: 4237127343727207952
+    second: tile set backup_79
+  - first:
+      213: 1252629695083891832
+    second: tile set backup_80
+  - first:
+      213: 292737140236598150
+    second: tile set backup_81
+  - first:
+      213: 8193478780849128229
+    second: tile set backup_82
+  - first:
+      213: 1215752434126557312
+    second: tile set backup_83
+  - first:
+      213: 8939256707275888338
+    second: tile set backup_84
+  - first:
+      213: 5005936496899269654
+    second: tile set backup_85
+  - first:
+      213: -5281933516669036725
+    second: tile set backup_86
+  - first:
+      213: 3584340206776626721
+    second: tile set backup_87
+  - first:
+      213: -3015034003629505989
+    second: tile set backup_88
+  - first:
+      213: -1622916572661149203
+    second: tile set backup_89
+  - first:
+      213: 4451351073379412826
+    second: tile set backup_90
+  - first:
+      213: -8519227203073993061
+    second: tile set backup_91
+  - first:
+      213: 9150682959841232281
+    second: tile set backup_92
+  - first:
+      213: -5414402807578136783
+    second: tile set backup_93
+  - first:
+      213: 1676890985780789363
+    second: tile set backup_94
+  - first:
+      213: -5906714175859911928
+    second: tile set backup_95
+  - first:
+      213: -7935044320476611108
+    second: tile set backup_96
+  - first:
+      213: -894697054238699721
+    second: tile set backup_97
+  - first:
+      213: -6628772899563128312
+    second: tile set backup_98
+  - first:
+      213: -8257493185178505461
+    second: tile set backup_99
+  - first:
+      213: -9007725022640993362
+    second: tile set backup_100
+  - first:
+      213: -7366056976165766961
+    second: tile set backup_101
+  - first:
+      213: 8910637067595427822
+    second: tile set backup_102
+  - first:
+      213: 4935595047353859825
+    second: tile set backup_103
+  - first:
+      213: 5108271038786434942
+    second: tile set backup_104
+  - first:
+      213: -621724425573554715
+    second: tile set backup_105
+  - first:
+      213: -6882790971108814088
+    second: tile set backup_106
+  - first:
+      213: -1922666138972688229
+    second: tile set backup_107
+  - first:
+      213: -3416455620747915457
+    second: tile set backup_108
+  - first:
+      213: -8962199670332540929
+    second: tile set backup_109
+  - first:
+      213: 5629935291956117729
+    second: tile set backup_110
+  - first:
+      213: -8873870962161988575
+    second: tile set backup_111
+  - first:
+      213: -2573480898986556431
+    second: tile set backup_112
+  - first:
+      213: -806405385524066834
+    second: tile set backup_113
+  - first:
+      213: 5283186426290381646
+    second: tile set backup_114
+  - first:
+      213: -6765161193760147739
+    second: tile set backup_115
+  - first:
+      213: 2022037293693674845
+    second: tile set backup_116
+  - first:
+      213: -5992923852103782021
+    second: tile set backup_117
+  - first:
+      213: 5991023454163279447
+    second: tile set backup_118
+  - first:
+      213: 1478085146562594014
+    second: tile set backup_119
+  - first:
+      213: 8825591467973431012
+    second: tile set backup_120
+  - first:
+      213: -14955223837086703
+    second: tile set backup_121
+  - first:
+      213: 4472029878756852220
+    second: tile set backup_122
+  - first:
+      213: 1012592855387715452
+    second: tile set backup_123
+  - first:
+      213: 636095732042796964
+    second: tile set backup_124
+  - first:
+      213: 434215133288250515
+    second: tile set backup_125
+  - first:
+      213: -1075004385562926522
+    second: tile set backup_126
+  - first:
+      213: -1186031606225321540
+    second: tile set backup_127
+  - first:
+      213: 5366396434016315477
+    second: tile set backup_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tile set backup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a31dabaf056abd0800000000000000
+      internalID: -2619317095463044453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d14eb308bdd8ac10800000000000000
+      internalID: 2065144211555893715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae326dfbcd3a8090800000000000000
+      internalID: -8031539039123128662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c5024e756e24840800000000000000
+      internalID: 5206977384357583930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_4
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3253763ead24018f0800000000000000
+      internalID: -571883644790557405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5505c7b2caf2c9b70800000000000000
+      internalID: 8907046579542446165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41357d6474d1e1a20800000000000000
+      internalID: 3034895390862693140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_7
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d1be135350a7350800000000000000
+      internalID: 6015125978335616309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2514c4afd51c51e0800000000000000
+      internalID: -2207865667032181462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828613a9e2db1fc0800000000000000
+      internalID: -3522990382581906807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_10
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2aa20fdcd3004200800000000000000
+      internalID: 162133833754520109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ae0c961075ec690800000000000000
+      internalID: -7580025459237131713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c7b83d801467d40800000000000000
+      internalID: 5581720294336986255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_13
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b7551742f00d8c0800000000000000
+      internalID: -3976661821773481103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_14
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f31833f7c79ff60800000000000000
+      internalID: 8068617093177753493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b01fd6a06a50cb40800000000000000
+      internalID: 5458462119536038071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc983ef36f81b90800000000000000
+      internalID: -7270790844128834569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cf9bbe0a01562a0800000000000000
+      internalID: -6744966583581803475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633b7f246c8f89fd0800000000000000
+      internalID: -2334842876380859594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d19c6fb58361590800000000000000
+      internalID: -7703908144937099936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1f16c4cf880ce70800000000000000
+      internalID: 9133450661501989375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_21
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af11c1ac6eddf7420800000000000000
+      internalID: 2630064690710712826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7de44b0b707679c0800000000000000
+      internalID: -3929829951061824129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32dd24a07fc85fc0800000000000000
+      internalID: -3505824227210177990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29081f78a3b2cc040800000000000000
+      internalID: 4669154444065210514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_25
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5735b7d82f6f57170800000000000000
+      internalID: 8175712220177191797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ab790578db76cb0800000000000000
+      internalID: -4870716083107546468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07be121589d9646e0800000000000000
+      internalID: -1853620919094613136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f085003a576ac0f0800000000000000
+      internalID: -1095949922260909837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tile set backup_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561ae78353cd16fd0800000000000000
+      internalID: -2350355409371487899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f045b4e332f275b41bb2d9a3606003d3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tile set backup_0: -2619317095463044453
+      tile set backup_1: 2065144211555893715
+      tile set backup_10: 162133833754520109
+      tile set backup_11: -7580025459237131713
+      tile set backup_12: 5581720294336986255
+      tile set backup_13: -3976661821773481103
+      tile set backup_14: 8068617093177753493
+      tile set backup_15: 5458462119536038071
+      tile set backup_16: -7270790844128834569
+      tile set backup_17: -6744966583581803475
+      tile set backup_18: -2334842876380859594
+      tile set backup_19: -7703908144937099936
+      tile set backup_2: -8031539039123128662
+      tile set backup_20: 9133450661501989375
+      tile set backup_21: 2630064690710712826
+      tile set backup_22: -3929829951061824129
+      tile set backup_23: -3505824227210177990
+      tile set backup_24: 4669154444065210514
+      tile set backup_25: 8175712220177191797
+      tile set backup_26: -4870716083107546468
+      tile set backup_27: -1853620919094613136
+      tile set backup_28: -1095949922260909837
+      tile set backup_29: -2350355409371487899
+      tile set backup_3: 5206977384357583930
+      tile set backup_4: -571883644790557405
+      tile set backup_5: 8907046579542446165
+      tile set backup_6: 3034895390862693140
+      tile set backup_7: 6015125978335616309
+      tile set backup_8: -2207865667032181462
+      tile set backup_9: -3522990382581906807
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
