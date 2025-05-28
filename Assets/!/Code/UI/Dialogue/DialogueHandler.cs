@@ -1,4 +1,5 @@
 using TMPro;
+using UnityEngine;
 
 public class DialogueHandler : OneInstanceSingleton<DialogueHandler>
 {
@@ -7,12 +8,22 @@ public class DialogueHandler : OneInstanceSingleton<DialogueHandler>
     public TextMeshProUGUI HeaderText;
     public TextMeshProUGUI ContentText;
 
+    void OnEnable()
+    {
+        UIManager.Instance.dialogueHandler = this;
+    }
+
     public void TurnOn(DialoguePayload dialogue)
     {
         _dialogue = dialogue;
         _currentDialogueIndex = 0;
         ShowDialogue(_currentDialogueIndex);
         gameObject.SetActive(true);
+    }
+
+    void Update()
+    {
+        UserInput.Instance.DisableMovement();
     }
 
     public void ShowDialogue(int index)
@@ -25,20 +36,23 @@ public class DialogueHandler : OneInstanceSingleton<DialogueHandler>
         else
         {
             if (!string.IsNullOrEmpty(_dialogue.payloads[index].header))
+            {
                 HeaderText.text = _dialogue.payloads[index].header;
-            HeaderText.alignment = _dialogue.payloads[index].headerTextAlignment;
+            }
+            // HeaderText.alignment = _dialogue.payloads[index].headerTextAlignment;
             ContentText.text = _dialogue.payloads[index].content;
         }
     }
 
     public void NextDialogue()
     {
-        ShowDialogue(++_currentDialogueIndex);
+        _currentDialogueIndex++;
+        ShowDialogue(_currentDialogueIndex);
     }
 
     public void TurnOff()
     {
         _currentDialogueIndex = 0;
-        gameObject.SetActive(false);
+        UIManager.Instance.TurnOffDialogue();
     }
 }

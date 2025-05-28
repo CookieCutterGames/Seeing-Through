@@ -1,6 +1,7 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -10,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     public float moveSpeed = 5f;
     public float sprintMultiplier = 1.5f;
 
+    [SerializeField]
     private Rigidbody2D rb;
     private Vector2 targetVelocity;
 
@@ -25,7 +27,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    void Update()
+    void FixedUpdate()
     {
         float currentSpeed = moveSpeed;
 
