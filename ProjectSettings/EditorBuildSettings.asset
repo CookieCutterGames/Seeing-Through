@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/!/Scenes/Levels/Level1/Level1UpStairs.unity
     guid: 7bc221a71d5a7964987fdc0d2b8aad78
+  - enabled: 1
+    path: Assets/!/Scenes/Levels/Garden.unity
+    guid: 8b8035842aafbf742955794add73eedd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 73f2bc50bc8427e41968af69e0425a9a, type: 3}
   m_UseUCBPForAssetBundles: 0

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74497fac4ccb432479c01e8e84e42f2e, type: 3}
+  m_Name: Memory_Concrete
+  m_EditorClassIdentifier: 
+  payloads:
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: "Wieczorny deszcz by\u0142 moim ulubionym rozm\xF3wc\u0105."
+    headerTextAlignment: 0
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: " Puka\u0142 w szyb\u0119 \u2014 czasem spokojnie, czasem nerwowo."
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: "Po tempie krok\xF3w mog\u0142am si\u0119 domy\u015Bli\u0107, czy to
+      by\u0142 d\u017Awi\u0119k szarlotki, herbaty malinowej i suchych, ma\u015Blanych
+      ciastek, czy mo\u017Ce jajek sadzonych z bu\u0142k\u0105 pe\u0142noziarnist\u0105. 
+      Kroki babci by\u0142y moim zegarem i kalendarzem - niezawodnymi narz\u0119dziami,
+      i w odr\xF3\u017Cnieniu od widzialnych, daj\u0105cymi z\u0142udzenie sta\u0142o\u015Bci,
+      a nie przemijania."
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: "Mama m\xF3wi\u0142a, \u017Ce niebo p\u0142acze."
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: " Ja s\u0142ysza\u0142am w tym \u015Bmiech. "
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: " Cichy, przemycony przez rynny i dach\xF3wki. "
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: " Specjalnie mocz\u0105cy beton, \u017Ceby rano dzieci mog\u0142y w
+      ka\u0142u\u017Cach krzycze\u0107 i pluska\u0107 z radosnym chichotem. "
+    headerTextAlignment: 257
+  - header: "\u201EDeszcz na betonie\u201D"
+    content: ' Deszcz na betonie. Deszcz. Deszcz na betonie. '
+    headerTextAlignment: 257

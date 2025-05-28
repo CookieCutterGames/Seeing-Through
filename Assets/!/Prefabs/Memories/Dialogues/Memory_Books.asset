@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74497fac4ccb432479c01e8e84e42f2e, type: 3}
+  m_Name: Memory_Books
+  m_EditorClassIdentifier: 
+  payloads:
+  - header: "\u201ESzelest ksi\u0105\u017Cki mamy\u201D"
+    content: "Mama czyta\u0142a zawsze na g\u0142os."
+    headerTextAlignment: 0
+  - header: "\u201ESzelest ksi\u0105\u017Cki mamy\u201D"
+    content: " Cicho, powoli, nawet je\u015Bli nie prosi\u0142am.  Najbardziej lubi\u0142am
+      moment, kiedy przewraca\u0142a strony \u2013 szur\u2026 pyk."
+    headerTextAlignment: 0
+  - header: "\u201ESzelest ksi\u0105\u017Cki mamy\u201D"
+    content: " Ten d\u017Awi\u0119k by\u0142 jak obietnica, \u017Ce historia si\u0119
+      jeszcze nie sko\u0144czy\u0142a.  Daj\u0105ca nadziej\u0119, stale pokonuj\u0105ca
+      z\u0142owieszczy trzask stron zamykaj\u0105cy kufer z kolejnymi przygodami."
+    headerTextAlignment: 0
+  - header: "\u201ESzelest ksi\u0105\u017Cki mamy\u201D"
+    content: " Gdyby ksi\u0105\u017Cki m\xF3wi\u0142y, to przeklina\u0142yby mam\u0119
+      \u2014 pewnie musia\u0142y co noc je\u017Adzi\u0107 do szpitala, bo ka\u017Cda
+      z nich mia\u0142a z\u0142amany kark, gdy mama zamiast je zamyka\u0107, odk\u0142ada\u0142a
+      je stronami do stolika."
+    headerTextAlignment: 257

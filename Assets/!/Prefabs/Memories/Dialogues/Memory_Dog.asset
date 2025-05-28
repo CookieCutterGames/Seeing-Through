@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74497fac4ccb432479c01e8e84e42f2e, type: 3}
+  m_Name: Memory_Dog
+  m_EditorClassIdentifier: 
+  payloads:
+  - header: "\u201EPies pod sto\u0142em\u201D"
+    content: "Mieli\u015Bmy psa, kt\xF3ry spa\u0142 przy moich nogach."
+    headerTextAlignment: 0
+  - header: "\u201EPies pod sto\u0142em\u201D"
+    content: " Podczas rodzinnych obiad\xF3w, kiedy wszyscy m\xF3wili, a ja nie chcia\u0142am
+      nic m\xF3wi\u0107, zwraca\u0142am uwag\u0119 tylko na jego spokojny, miarowy
+      oddech."
+    headerTextAlignment: 0
+  - header: "\u201EPies pod sto\u0142em\u201D"
+    content: "Albo wr\u0119cz przeciwnie \u2014 na jego szale\u0144cze, parowozowe
+      d\u017Awi\u0119ki och\u0142adzania si\u0119 po zabawie w berka ze swoim ogonem."
+    headerTextAlignment: 0
+  - header: "\u201EPies pod sto\u0142em\u201D"
+    content: "Niewa\u017Cne, czy cichy, czy g\u0142o\u015Bny \u2014 wiedzia\u0142am,
+      \u017Ce Romper szepcze i krzyczy mi\u0142o\u015Bci\u0105."
+    headerTextAlignment: 257

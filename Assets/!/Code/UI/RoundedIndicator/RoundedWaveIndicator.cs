@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using UnityEditor.ShaderGraph;
 using UnityEngine;
 
 [RequireComponent(typeof(LineRenderer), typeof(Collider2D), typeof(Rigidbody2D))]
@@ -67,7 +68,10 @@ public class RoundedWaveIndicator : MonoBehaviour
                         continue;
                     }
 
-                    tempDirection = (Vector2)obj.position - (Vector2)transform.position;
+                    tempDirection =
+                        (Vector2)obj.position
+                        - (Vector2)transform.position
+                        + new Vector2(4.4f, 7.70f);
                     float objectAngle =
                         Mathf.Atan2(tempDirection.y, tempDirection.x) * Mathf.Rad2Deg;
                     float angleDiff = Mathf.Abs(Mathf.DeltaAngle(currentAngle, objectAngle));
@@ -97,8 +101,10 @@ public class RoundedWaveIndicator : MonoBehaviour
             float finalRadius = radius + spikeHeight + localFluctuation;
             float x = finalRadius * Mathf.Cos(angleRad);
             float y = finalRadius * Mathf.Sin(angleRad);
-            positions[i] = new Vector3(x, y, 0);
+            positions[i] =
+                transform.parent.position + new Vector3(x, y, 0) + new Vector3(4.4f, 7.70f, 0);
         }
+        lineRenderer.useWorldSpace = false;
 
         lineRenderer.SetPositions(positions);
     }
