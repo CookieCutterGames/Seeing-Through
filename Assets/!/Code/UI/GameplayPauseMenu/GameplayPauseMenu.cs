@@ -13,6 +13,7 @@ public class GameplayPauseMenu : MonoBehaviour
 
     void Start()
     {
+        UIManager.Instance.gameplayPauseMenu = this;
         button.onClick.AddListener(
             delegate
             {

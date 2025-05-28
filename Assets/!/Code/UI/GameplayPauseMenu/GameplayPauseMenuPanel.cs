@@ -43,6 +43,7 @@ public class GameplayPauseMenuPanel : MonoBehaviour
 
     void Start()
     {
+        UIManager.Instance.gameplayPauseMenuPanel = gameObject;
         resume.onClick.AddListener(
             delegate
             {

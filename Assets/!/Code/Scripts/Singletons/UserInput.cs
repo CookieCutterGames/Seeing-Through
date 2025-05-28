@@ -22,10 +22,10 @@ public class UserInput : MonoBehaviour
 
     private InputAction _moveAction;
     private InputAction _jumpAction;
-    private InputAction _attack1Action;
-    private InputAction _attack2Action;
+    public InputAction _attack1Action;
+    public InputAction _attack2Action;
     private InputAction _sprintAction;
-    private InputAction _interactAction;
+    public InputAction _interactAction;
     private InputAction _menuOpenCloseAction;
 
     public void DisableMovement()
@@ -78,5 +78,6 @@ public class UserInput : MonoBehaviour
         }
         _playerInput = GetComponent<PlayerInput>();
         SetupInputActions();
+        DisableMovement();
     }
 }

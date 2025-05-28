@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74497fac4ccb432479c01e8e84e42f2e, type: 3}
+  m_Name: Memory_washingmachine
+  m_EditorClassIdentifier: 
+  payloads:
+  - header: 
+    content: "Ciep\u0142e popo\u0142udnie, kiedy mama robi\u0142a pranie."
+    headerTextAlignment: 0
+  - header: 
+    content: " Szum b\u0119bna oznajmia\u0142 g\u0142o\u015Bnym stukotem, \u017Ce
+      pozwoli\u0142 mamie zosta\u0107 ca\u0142y dzie\u0144 i a\u017C do popo\u0142udnia
+      nie spodziewa si\u0119 taty."
+    headerTextAlignment: 0
+  - header: 
+    content: " Le\u017Ca\u0142am wtedy na pod\u0142odze z g\u0142ow\u0105 na poduszce
+      i s\u0142ucha\u0142am, co ma ciekawego do powiedzenia."
+    headerTextAlignment: 0
+  - header: 
+    content: " Dziwi\u0142o mnie to, \u017Ce czasami m\xF3wi\u0142 co\u015B szybciej,
+      a czasami wolniej, ale docenia\u0142am, \u017Ce zawsze wybija\u0142 rytm, kt\xF3ry
+      powtarza\u0142 do (nie)znudzenia: \u201EJeste\u015B bezpieczna.\u201D"
+    headerTextAlignment: 257
