@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 67fe077f5a82cc8488aae915159745cb
+guid: 21f9a6bbacc8b0a48a19178b204c7ec9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6865022939047593523
-    second: schody_srodek__0
+      213: 7775322683045997499
+    second: kafelki_1m_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -75,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: schody_srodek__0
+      name: kafelki_1m_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33607d89df5754f50800000000000000
-      internalID: 6865022939047593523
+      spriteID: bbb6ef8e8ce77eb60800000000000000
+      internalID: 7775322683045997499
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: efc3b25f33911a847bc0af0b3f23d429
+    spriteID: a8b03ce6a4a628d4b9a5a04a567f8524
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      schody_srodek__0: 6865022939047593523
+      kafelki_1m_0: 7775322683045997499
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

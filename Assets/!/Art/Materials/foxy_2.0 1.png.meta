@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 67fe077f5a82cc8488aae915159745cb
+guid: fb60ac67a11102c4ea0b15f72a8c0393
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6865022939047593523
-    second: schody_srodek__0
+      213: -5836010522001263864
+    second: foxy_2.0_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: schody_srodek__0
+      name: foxy_2.0_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 19
+        y: 18
+        width: 27
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33607d89df5754f50800000000000000
-      internalID: 6865022939047593523
+      spriteID: 8033caac953520fa0800000000000000
+      internalID: -5836010522001263864
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: efc3b25f33911a847bc0af0b3f23d429
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      schody_srodek__0: 6865022939047593523
+      foxy_2.0_0: -5836010522001263864
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

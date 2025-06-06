@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 67fe077f5a82cc8488aae915159745cb
+guid: 8e2e801122f1f0b44af48bb9c85ab6d2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6865022939047593523
-    second: schody_srodek__0
+      213: 2318928220091036364
+    second: dywan_1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,11 +100,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: schody_srodek__0
+      name: dywan_1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
+        x: 1280
+        y: 768
         width: 64
         height: 64
       alignment: 0
@@ -113,10 +113,120 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 33607d89df5754f50800000000000000
-      internalID: 6865022939047593523
+      spriteID: 0289f8c0aab26d04190de8cbbf9b0a87
+      internalID: -298173556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dywan_1_1
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bf0fc9ca6181945bda4a38e84be49d
+      internalID: 812905332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dywan_1_2
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9ba8730a0d48c48966658e1188b9bf
+      internalID: 747141036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dywan_1_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39086a77cd83f5541a6df7f4e4e6392a
+      internalID: -1510437128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dywan_1_4
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db86d16a3b82a4ab6ee5cdd14c3b71
+      internalID: -454061895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dywan_1_5
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30eb4c7df2c5ea147b28b8cc31e14ded
+      internalID: -418438336
       vertices: []
       indices: 
       edges: []
@@ -125,7 +235,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: efc3b25f33911a847bc0af0b3f23d429
+    spriteID: cc1e80193a779574c9228fee37b22c2d
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +245,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      schody_srodek__0: 6865022939047593523
+      dywan_1_0: -298173556
+      dywan_1_1: 812905332
+      dywan_1_2: 747141036
+      dywan_1_3: -1510437128
+      dywan_1_4: -454061895
+      dywan_1_5: -418438336
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
