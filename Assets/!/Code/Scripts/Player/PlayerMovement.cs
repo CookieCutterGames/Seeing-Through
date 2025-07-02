@@ -16,6 +16,9 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 targetVelocity;
 
     private bool IsMoving;
+    Animator anim;
+    private Vector2 lastMoveDirection;
+    private bool facingLeft = false;
 
     public Action<bool> IsMovingValueChanged;
 
@@ -25,9 +28,12 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
-    void FixedUpdate()
+    void FixedUpdate() { }
+
+    void Update()
     {
         float currentSpeed = moveSpeed;
 
@@ -41,6 +47,13 @@ public class PlayerMovement : MonoBehaviour
         IsMovingValueChanged.Invoke(IsMoving);
         rb.linearVelocity = targetVelocity;
         UpdateRecentPositions();
+        ProcessInputs();
+        Animate();
+        if (
+            UserInput.Instance.MoveInput.x < 0 && !facingLeft
+            || UserInput.Instance.MoveInput.x > 0 && facingLeft
+        )
+            Flip();
     }
 
     public void UpdateRecentPositions()
@@ -70,5 +83,32 @@ public class PlayerMovement : MonoBehaviour
     public Vector2 GetFacingDirection()
     {
         return lastFacingDirection;
+    }
+
+    public void ProcessInputs()
+    {
+        var inputs = UserInput.Instance.MoveInput;
+        if ((inputs.x == 0 && inputs.y == 0) && (inputs.x != 0 || inputs.y != 0))
+        {
+            lastMoveDirection = inputs;
+        }
+    }
+
+    void Animate()
+    {
+        anim.SetFloat("MoveX", UserInput.Instance.MoveInput.x);
+        anim.SetFloat("MoveY", UserInput.Instance.MoveInput.y);
+        anim.SetFloat("MoveMagnitude", UserInput.Instance.MoveInput.magnitude);
+        anim.SetFloat("LastMoveX", lastMoveDirection.x);
+        anim.SetFloat("LastMoveY", lastMoveDirection.y);
+    }
+
+    void Flip()
+    {
+        Vector3 scale = transform.localScale;
+
+        scale.x *= -1;
+        transform.localScale = scale;
+        facingLeft = !facingLeft;
     }
 }

@@ -5,7 +5,7 @@ public class MainMenuHandler : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("Level1UpStairs");
+        SceneManager.LoadScene("LevelCombined");
     }
 
     public void Exit()

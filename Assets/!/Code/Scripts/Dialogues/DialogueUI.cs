@@ -1,0 +1,110 @@
+using System;
+using System.Collections;
+using TMPro;
+using UnityEngine;
+using UnityEngine.UI;
+
+public class DialogueUI : MonoBehaviour
+{
+    [Header("UI References")]
+    public TextMeshProUGUI titleText;
+    public TextMeshProUGUI contentText;
+    public Image imageDisplay;
+    public Button continueButton;
+
+    private DialogueData currentDialogue;
+    private int currentIndex = 0;
+
+    Action onComplete;
+    Coroutine typingCoroutine;
+    bool isTyping = false;
+    string fullContent = "";
+
+    public void Show(DialogueData dialogue, Action onComplete = null)
+    {
+        currentDialogue = dialogue;
+        this.onComplete = onComplete;
+        currentIndex = 0;
+        DisplaySlide();
+        transform.GetChild(0).gameObject.SetActive(true);
+        continueButton.onClick.RemoveAllListeners();
+        continueButton.onClick.AddListener(OnContinueClicked);
+    }
+
+    public void Hide()
+    {
+        onComplete?.Invoke();
+        onComplete = null;
+        transform.GetChild(0).gameObject.SetActive(false);
+        continueButton.onClick.RemoveAllListeners();
+    }
+
+    void DisplaySlide()
+    {
+        if (currentDialogue == null || currentIndex >= currentDialogue.slides.Length)
+        {
+            DialogueSystem.Hide();
+            return;
+        }
+
+        var slide = currentDialogue.slides[currentIndex];
+
+        titleText.text = slide.title;
+        titleText.gameObject.SetActive(!string.IsNullOrEmpty(slide.title));
+
+        if (typingCoroutine != null)
+            StopCoroutine(typingCoroutine);
+        typingCoroutine = StartCoroutine(TypeText(slide.content));
+
+        if (slide.image != null)
+        {
+            imageDisplay.sprite = slide.image;
+            imageDisplay.gameObject.SetActive(true);
+        }
+        else
+        {
+            imageDisplay?.gameObject.SetActive(false);
+        }
+    }
+
+    IEnumerator TypeText(string content)
+    {
+        isTyping = true;
+        fullContent = content;
+        contentText.text = "";
+        foreach (char c in content)
+        {
+            contentText.text += c;
+            yield return new WaitForSeconds(UnityEngine.Random.Range(0.01f, 0.1f));
+        }
+        isTyping = false;
+    }
+
+    void OnContinueClicked()
+    {
+        if (isTyping)
+        {
+            if (typingCoroutine != null)
+                StopCoroutine(typingCoroutine);
+            contentText.text = fullContent;
+            isTyping = false;
+        }
+        else
+        {
+            NextSlide();
+        }
+    }
+
+    void NextSlide()
+    {
+        currentIndex++;
+        if (currentIndex >= currentDialogue.slides.Length)
+        {
+            DialogueSystem.Hide();
+        }
+        else
+        {
+            DisplaySlide();
+        }
+    }
+}

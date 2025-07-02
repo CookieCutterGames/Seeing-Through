@@ -19,6 +19,6 @@ public class InteractionIndicator : MonoBehaviour
             InputControlPath.HumanReadableStringOptions.OmitDevice
         );
 
-        content.text = $"Naciśnij {readable} aby użyć";
+        content.text = $"<color=#ffffff>Naciśnij <color=#C91419>{readable}<color=#ffffff> aby użyć";
     }
 }

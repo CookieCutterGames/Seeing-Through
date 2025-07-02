@@ -4,7 +4,10 @@ public class CameraShaker : MonoBehaviour
 {
     public static CameraShaker Instance;
 
+    [SerializeField]
     private float shakeDuration;
+
+    [SerializeField]
     private float shakeMagnitude;
     private Vector3 originalPosition;
 

@@ -26,7 +26,7 @@ public class UserInput : MonoBehaviour
     public InputAction _attack2Action;
     private InputAction _sprintAction;
     public InputAction _interactAction;
-    private InputAction _menuOpenCloseAction;
+    public InputAction _menuOpenCloseAction;
 
     public void DisableMovement()
     {
@@ -36,6 +36,18 @@ public class UserInput : MonoBehaviour
     public void EnableMovement()
     {
         _moveAction.Enable();
+    }
+
+    public void DisableAbilites()
+    {
+        _attack1Action.Disable();
+        _attack2Action.Disable();
+    }
+
+    public void EnableAbilites()
+    {
+        _attack1Action.Enable();
+        _attack2Action.Enable();
     }
 
     void SetupInputActions()
@@ -58,6 +70,11 @@ public class UserInput : MonoBehaviour
         Attack2Pressed = _attack2Action.WasPressedThisFrame();
         SprintPressed = _sprintAction.IsPressed();
         MenuOpenCloseInput = _menuOpenCloseAction.WasPressedThisFrame();
+    }
+
+    public InputAction GetActionByName(string actionName)
+    {
+        return _playerInput.actions[actionName];
     }
 
     void Update()

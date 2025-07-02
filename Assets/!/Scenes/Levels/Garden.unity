@@ -141,7 +141,7 @@ GameObject:
   - component: {fileID: 38804234}
   - component: {fileID: 38804233}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: Garden
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -831,6 +831,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   memory: {fileID: 11400000, guid: d1537969c61e3264194e34e4a6b013f3, type: 2}
+  memoryID: 
 --- !u!58 &270480852
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -996,11 +997,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!1 &316481233 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 7949445119449626395, guid: e4cbb6b1acbcad1438862952fbbee4e7, type: 3}
-  m_PrefabInstance: {fileID: 1574662594}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &437203447
 GameObject:
   m_ObjectHideFlags: 0
@@ -14733,17 +14729,6 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
---- !u!114 &1037747336 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3799779300030648484, guid: e4cbb6b1acbcad1438862952fbbee4e7, type: 3}
-  m_PrefabInstance: {fileID: 1574662594}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6100b38815b097543bbc07e8ccf1a26a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1061027855
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -22283,9 +22268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f9d3b2d6390cea40a2a18f64da37863, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameplayPauseMenu: {fileID: 2001436691}
-  gameplayPauseMenuPanel: {fileID: 316481233}
-  dialogueHandler: {fileID: 1037747336}
   interactionIndicator: {fileID: 28280759}
 --- !u!1001 &1768992478
 PrefabInstance:
@@ -22414,6 +22396,15 @@ MonoBehaviour:
     m_Interactions: 
     m_SingletonActionBindings: []
     m_Flags: 0
+  _menuOpenCloseAction:
+    m_Name: 
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: 8d3e3107-b8e4-447c-b961-d16220a413d3
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings: []
+    m_Flags: 0
 --- !u!114 &1901267853
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -22518,17 +22509,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1a687eec387e0074eb9241b3a1902497, type: 3}
---- !u!114 &2001436691 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 3731317652193226760, guid: e4cbb6b1acbcad1438862952fbbee4e7, type: 3}
-  m_PrefabInstance: {fileID: 1574662594}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d2cea70e53641194ca9596da5742044a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

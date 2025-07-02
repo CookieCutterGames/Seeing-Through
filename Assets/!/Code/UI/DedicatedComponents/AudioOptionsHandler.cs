@@ -55,7 +55,7 @@ public class AudioOptionsHandler : MonoBehaviour
         if (obj.TryGetComponent(out KVProgressBar component))
         {
             component.key.text = name;
-            component.value.value = progressBarFill / 100;
+            component.value.value = progressBarFill;
             component.value.onValueChanged.AddListener(value => onValueChanged(value));
         }
     }

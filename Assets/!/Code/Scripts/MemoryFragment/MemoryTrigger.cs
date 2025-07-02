@@ -4,19 +4,31 @@ using UnityEngine.InputSystem;
 public class MemoryTrigger : MonoBehaviour
 {
     [SerializeField]
-    private DialoguePayload memory;
+    private DialogueData memory;
+
+    [SerializeField]
+    private string memoryID;
+
     bool userInRange;
-    bool memoryInUsage;
 
     void Start()
     {
+        if (PlayerMemoryController.capturedMemory.ContainsKey(memoryID))
+        {
+            gameObject.SetActive(false);
+        }
         UserInput.Instance._interactAction.performed += Interact;
     }
 
     private void Interact(InputAction.CallbackContext context)
     {
-        memoryInUsage = true;
-        UIManager.Instance.TurnOnDialogue(memory);
+        if (!userInRange)
+            return;
+        DialogueSystem.Show(memory);
+        PlayerMemoryController.capturedMemory.Add(memoryID, memory);
+        GameObject.Find("DefaultUI").GetComponentInChildren<MemoryFoundAnimation>().PlayAnimation();
+        AudioManager.Instance.PlayMemoryFragment();
+        gameObject.SetActive(false);
     }
 
     void OnTriggerEnter2D(Collider2D collision)
@@ -33,7 +45,6 @@ public class MemoryTrigger : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             userInRange = false;
-            memoryInUsage = false;
             UIManager.Instance.TurnOffInteractionIndicator();
         }
     }

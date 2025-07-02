@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df1a38e97ae7d24ba0580ee8c917250, type: 3}
+  m_Name: MemoryFragment_Grandma
+  m_EditorClassIdentifier: 
+  slides:
+  - title: "\u201EKroki babci\u201D"
+    content: "Babcia zawsze chodzi\u0142a powoli, a jej pantofle wydawa\u0142y te
+      ciche, znajome szuranie."
+    image: {fileID: 0}
+  - title: "\u201EKroki babci\u201D"
+    content: "Szur\u2026 szur\u2026"
+    image: {fileID: 0}
+  - title: "\u201EKroki babci\u201D"
+    content: "Po tempie krok\xF3w mog\u0142am si\u0119 domy\u015Bli\u0107, czy to
+      by\u0142 d\u017Awi\u0119k szarlotki, herbaty malinowej i suchych, ma\u015Blanych
+      ciastek, czy mo\u017Ce jajek sadzonych z bu\u0142k\u0105 pe\u0142noziarnist\u0105."
+    image: {fileID: 0}
+  - title: "\u201EKroki babci\u201D"
+    content: "Kroki babci by\u0142y moim zegarem i kalendarzem"
+    image: {fileID: 0}
+  - title: "\u201EKroki babci\u201D"
+    content: "niezawodnymi narz\u0119dziami, i w odr\xF3\u017Cnieniu od widzialnych,
+      daj\u0105cymi z\u0142udzenie sta\u0142o\u015Bci, a nie przemijania."
+    image: {fileID: 0}

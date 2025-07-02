@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using UnityEditor.ShaderGraph;
 using UnityEngine;
 
 [RequireComponent(typeof(LineRenderer), typeof(Collider2D), typeof(Rigidbody2D))]
@@ -16,7 +15,9 @@ public class RoundedWaveIndicator : MonoBehaviour
     private float arcAngle = 360f;
 
     private Vector3[] positions;
-    private readonly List<Transform>[] objectGroups = new List<Transform>[3];
+
+    [SerializeField]
+    private List<Transform>[] objectGroups = new List<Transform>[3];
     private Vector2 tempDirection;
 
     private void Awake()
@@ -40,6 +41,7 @@ public class RoundedWaveIndicator : MonoBehaviour
 
     private void Update()
     {
+        transform.localPosition = Vector2.zero;
         DrawWaveArc();
     }
 
@@ -68,30 +70,38 @@ public class RoundedWaveIndicator : MonoBehaviour
                         continue;
                     }
 
-                    tempDirection =
-                        (Vector2)obj.position
-                        - (Vector2)transform.position
-                        + new Vector2(4.4f, 7.70f);
+                    tempDirection = (Vector2)obj.position - (Vector2)transform.position;
                     float objectAngle =
                         Mathf.Atan2(tempDirection.y, tempDirection.x) * Mathf.Rad2Deg;
                     float angleDiff = Mathf.Abs(Mathf.DeltaAngle(currentAngle, objectAngle));
+                    float distance = tempDirection.magnitude;
 
-                    float distanceFactor = Mathf.Clamp01(1f - angleDiff / 7f);
+                    float distanceOnArcFactor = Mathf.Clamp01(1f - angleDiff / 7f);
 
-                    if (distanceFactor > 0f)
+                    float distanceFactor = Mathf.Clamp01(1f - Mathf.Abs(distance - 2f) / 2f);
+
+                    if (distanceOnArcFactor > 0f)
                     {
                         switch (typeIndex)
                         {
                             case 0:
                                 localFluctuation =
                                     Mathf.PerlinNoise(i * 0.1f, currentTime * 0.5f) * 0.05f
-                                    + distanceFactor * Random.Range(-0.05f, 0.15f);
+                                    + distanceOnArcFactor * Random.Range(-0.05f, 0.15f);
                                 break;
                             case 1:
-                                spikeHeight += Mathf.Lerp(0f, 0.5f, distanceFactor / 2);
+                                spikeHeight += Mathf.Lerp(
+                                    0f,
+                                    radius / 2,
+                                    (distanceOnArcFactor * distanceFactor) / 2
+                                );
                                 break;
                             case 2:
-                                spikeHeight += Mathf.Lerp(0f, 0.3f, distanceFactor);
+                                spikeHeight += Mathf.Lerp(
+                                    0f,
+                                    radius / 2,
+                                    distanceOnArcFactor * distanceFactor
+                                );
                                 break;
                         }
                     }
@@ -101,11 +111,10 @@ public class RoundedWaveIndicator : MonoBehaviour
             float finalRadius = radius + spikeHeight + localFluctuation;
             float x = finalRadius * Mathf.Cos(angleRad);
             float y = finalRadius * Mathf.Sin(angleRad);
-            positions[i] =
-                transform.parent.position + new Vector3(x, y, 0) + new Vector3(4.4f, 7.70f, 0);
+            positions[i] = new Vector3(x, y, 0);
         }
-        lineRenderer.useWorldSpace = false;
 
+        lineRenderer.useWorldSpace = false;
         lineRenderer.SetPositions(positions);
     }
 
