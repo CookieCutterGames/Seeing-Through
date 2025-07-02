@@ -7,6 +7,8 @@ public class Player : MonoBehaviour
 
     public PlayerMovement playerMovement;
 
+    public bool isHoldingMug;
+
     void Awake()
     {
         if (Instance != null && Instance != this)

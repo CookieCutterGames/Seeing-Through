@@ -33,7 +33,6 @@ public class EnemyVisionDesorientation : MonoBehaviour
         float distanceToGhost = Vector3.Distance(transform.position, ghost.position);
         currentDistortion = Mathf.Lerp(maxDistortion, 0, distanceToGhost / distortionDistance);
 
-        // Aktualizacja parametrów shadera
         peripheralMaterial.SetFloat("_GhostDistance", distanceToGhost);
         peripheralMaterial.SetFloat("_ShadowIntensity", Mathf.PingPong(Time.time * 0.5f, 0.3f));
     }

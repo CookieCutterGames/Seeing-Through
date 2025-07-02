@@ -21,6 +21,8 @@ public class ChangeLevel : MonoBehaviour
         }
     }
 
+    public bool usedChangedScene;
+
     public Image fadePanel;
 
     [SerializeField]
@@ -34,6 +36,9 @@ public class ChangeLevel : MonoBehaviour
 
     private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
     {
+        if (!usedChangedScene)
+            return;
+        usedChangedScene = false;
         fadePanel = FadePanel.Instance.GetComponentInChildren<Image>();
 
         if (fadePanel != null)
@@ -43,6 +48,7 @@ public class ChangeLevel : MonoBehaviour
             fadePanel.color = color;
             StartCoroutine(FadeIn());
         }
+        GameplayManager.Instance?.StartLevel();
     }
 
     private void OnDestroy()
@@ -52,12 +58,12 @@ public class ChangeLevel : MonoBehaviour
 
     public void ChangeScene(EScenes scene)
     {
+        usedChangedScene = true;
         StartCoroutine(FadeAndChangeScene(scene.ToString()));
     }
 
     IEnumerator FadeAndChangeScene(string sceneName)
     {
-        Debug.Log(sceneName);
         UserInput.Instance.DisableMovement();
         yield return StartCoroutine(FadeEffect(FadeSide.OUT));
         yield return SceneManager.LoadSceneAsync(sceneName);

@@ -13,7 +13,6 @@ public class ReloadUIComponents : MonoBehaviour
 
             foreach (Transform child in transform)
             {
-                Debug.Log(child.name);
                 GameObject childObj = child.gameObject;
                 bool originalState = childObj.activeSelf;
                 childrenStates.Add((childObj, originalState));

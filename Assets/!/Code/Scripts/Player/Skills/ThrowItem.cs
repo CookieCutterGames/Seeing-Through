@@ -1,11 +1,10 @@
-using System.Collections;
-using UnityEngine;
-using UnityEngine.InputSystem;
+using System.Diagnostics;
 
 public class ThrowItem : AbilityBase
 {
     protected override void Execute()
     {
-        Debug.Log("Used Throw Item");
+        if (!Player.Instance.isHoldingMug)
+            return;
     }
 }

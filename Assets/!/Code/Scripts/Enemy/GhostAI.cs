@@ -6,7 +6,6 @@ using UnityEngine.Rendering.Universal;
 [RequireComponent(typeof(Rigidbody2D))]
 [RequireComponent(typeof(AudioSource))]
 [RequireComponent(typeof(CircleCollider2D))]
-[RequireComponent(typeof(ParticleSystem))]
 public class GhostAI : MonoBehaviour
 {
     public enum State
@@ -75,7 +74,6 @@ public class GhostAI : MonoBehaviour
     private float lastTeleportTime;
     private Vector3 lastPlayerHidePosition;
     private bool isDeceiving;
-    private ParticleSystem teleportEffect;
     private AudioSource audioSource;
     private Rigidbody2D rb;
     private NoiseHandler playerNoiseHandler;
@@ -100,7 +98,6 @@ public class GhostAI : MonoBehaviour
     {
         player = GameObject.FindGameObjectWithTag("Player").transform;
         playerNoiseHandler = player.GetComponentInChildren<NoiseHandler>();
-        teleportEffect = GetComponentInChildren<ParticleSystem>();
         audioSource = GetComponent<AudioSource>();
         currentState = State.Patrol;
         isDeceiving = false;
@@ -134,8 +131,6 @@ public class GhostAI : MonoBehaviour
     {
         if (dynamicWaypoints.Count == 0)
             return;
-
-        // Wybierz najbliższy waypoint w kierunku gracza
         Vector2 targetPos = dynamicWaypoints[0];
         float minDist = float.MaxValue;
 
@@ -294,7 +289,7 @@ public class GhostAI : MonoBehaviour
             && currentState != State.Chase
         )
         {
-            TryTeleport();
+            // TryTeleport();
         }
 
         if (Random.value < deceptionChance * Time.deltaTime && !isDeceiving)
@@ -319,7 +314,7 @@ public class GhostAI : MonoBehaviour
         return hit.collider != null && hit.collider.CompareTag("Player");
     }
 
-    void TryTeleport()
+    void a()
     {
         if (teleportAnchors.Count == 0)
             return;
@@ -336,19 +331,8 @@ public class GhostAI : MonoBehaviour
 
         if (IsValidPosition(targetPos))
         {
-            StartCoroutine(TeleportEffect(targetPos));
             lastTeleportTime = Time.time;
         }
-    }
-
-    IEnumerator TeleportEffect(Vector3 newPosition)
-    {
-        teleportEffect.Play();
-        // AudioManager.PlayGhostSound("Teleport");
-        yield return new WaitForSeconds(0.3f);
-        transform.position = newPosition;
-        yield return new WaitForSeconds(0.5f);
-        teleportEffect.Stop();
     }
 
     void CreateDecoy(Vector3 position)
@@ -386,7 +370,7 @@ public class GhostAI : MonoBehaviour
 
                 if (distanceToPlayer < 4f)
                 {
-                    CameraShaker.Instance.Shake(0.1f * intensity, 0.3f);
+                    // CameraShaker.Instance.Shake(0.1f * intensity, 0.3f);
                 }
             }
 

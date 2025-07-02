@@ -13,13 +13,16 @@ public class GameplayPauseMenuPanel : MonoBehaviour
     [SerializeField]
     Button closeBtn;
 
-    float timeOfExpand = 1f;
+    [SerializeField]
+    Button optionsBtn;
 
-    void OnEnable()
-    {
-        transform.localScale.Set(0, 1, 1);
-        expandPanel();
-    }
+    [SerializeField]
+    Button hudButton;
+
+    [SerializeField]
+    GameObject optionsPanel;
+
+    float timeOfExpand = 1f;
 
     IEnumerator expandPanel()
     {
@@ -36,14 +39,22 @@ public class GameplayPauseMenuPanel : MonoBehaviour
         }
     }
 
-    void OnDisable()
+    public void Show()
+    {
+        transform.GetChild(1).gameObject.SetActive(true);
+        transform.localScale.Set(0, 1, 1);
+        expandPanel();
+    }
+
+    public void Hide()
     {
         transform.localScale.Set(0, 1, 1);
+        transform.GetChild(1).gameObject.SetActive(false);
+        UserInput.Instance.EnableMovement();
     }
 
     void Start()
     {
-        UIManager.Instance.gameplayPauseMenuPanel = gameObject;
         resume.onClick.AddListener(
             delegate
             {
@@ -59,7 +70,28 @@ public class GameplayPauseMenuPanel : MonoBehaviour
         closeBtn.onClick.AddListener(
             delegate
             {
-                UIManager.Instance.TurnOffPauseMenu();
+                GameplayPauseMenuSystem.Hide();
+            }
+        );
+        optionsBtn.onClick.AddListener(
+            delegate
+            {
+                optionsPanel.SetActive(true);
+            }
+        );
+        if (hudButton == null)
+        {
+#if UNITY_EDITOR
+            Debug.LogWarning(
+                "GameplayPauseMenuPanel - Hud button is not initialized, finding by script"
+            );
+#endif
+            hudButton = GameObject.Find("[HUD] PauseMenu").GetComponent<Button>();
+        }
+        hudButton.onClick.AddListener(
+            delegate
+            {
+                GameplayPauseMenuSystem.Show();
             }
         );
     }

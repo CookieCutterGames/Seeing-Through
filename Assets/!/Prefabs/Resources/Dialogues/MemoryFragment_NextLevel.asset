@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df1a38e97ae7d24ba0580ee8c917250, type: 3}
+  m_Name: MemoryFragment_NextLevel
+  m_EditorClassIdentifier: 
+  slides:
+  - title: 
+    content: "Dzwonek przesta\u0142 krzycze\u0107, mog\u0142 odetchn\u0105\u0107
+      \u015Bwie\u017Cym powietrzem braku echa."
+    image: {fileID: 0}
+  - title: 
+    content: "Cisza opad\u0142a jak ci\u0119\u017Cka kurtyna, a ja sta\u0142am w
+      miejscu, czuj\u0105c jak serce wali mi w piersi niczym w\u015Bciek\u0142y kowal
+      niemog\u0105cy wyku\u0107 swojego kolejnego dzie\u0142a."
+    image: {fileID: 0}
+  - title: 
+    content: "Czerwone k\u0142\u0119bki d\u017Awi\u0119k\xF3w w korytarzu \u2014
+      te wszystkie krzyki, przekle\u0144stwa i trzask butelek \u2014 rozp\u0142yn\u0119\u0142y
+      si\u0119 w powietrzu jak dym z dogasaj\u0105cego papierosa taty."
+    image: {fileID: 0}
+  - title: 
+    content: "Sapa\u0142am ci\u0119\u017Cko, pr\xF3buj\u0105c z\u0142apa\u0107 r\xF3wnowag\u0119.
+      Moje palce zacisn\u0119\u0142y si\u0119 mocniej na misiu"
+    image: {fileID: 0}
+  - title: 
+    content: "Tym ma\u0142ym, pluszowym przyjacielu, kt\xF3ry nauczy\u0142 mnie"
+    image: {fileID: 0}
+  - title: 
+    content: "D\u017Awi\u0119k mo\u017Ce by\u0107 broni\u0105 przeciwko ciemno\u015Bci.
+      \u201EUciek\u0142am\" \u2014 pomy\u015Bla\u0142am z ulg\u0105, kt\xF3ra by\u0142a
+      s\u0142odka jak pierwszy oddech po d\u0142ugim nurkowaniu."
+    image: {fileID: 0}
+  - title: 
+    content: "Ale los, ten szyderczy krupier, ju\u017C przygotowywa\u0142 kolejn\u0105
+      kart\u0119 do gry"
+    image: {fileID: 0}
+  - title: 
+    content: "Przede mn\u0105 by\u0142y otwarte drzwi \u2014 us\u0142ysza\u0142am
+      ich skrzypienie"
+    image: {fileID: 0}
+  - title: 
+    content: "Ogr\xF3d. Zapach trawy, wilgotnej ziemi i... czego\u015B jeszcze."
+    image: {fileID: 0}
+  - title: 
+    content: "Czego\u015B, co sprawi\u0142o, \u017Ce m\xF3j \u017Co\u0142\u0105dek
+      zacisn\u0105\u0142 si\u0119 w w\u0119ze\u0142."
+    image: {fileID: 0}
+  - title: 
+    content: "Zrobi\u0142am pierwszy krok na zewn\u0105trz, a razem z krokiem przysz\u0142y
+      do mnie nowe kontrury."
+    image: {fileID: 0}
+  - title: 
+    content: "Krzaki, \u015Bcie\u017Cka wysypana \u017Cwirem, stary \u017Cywop\u0142ot,
+      kt\xF3ry sta\u0142 si\u0119 w\u0142adc\u0105 podw\xF3rkowej d\u017Cungli. "
+    image: {fileID: 0}
+  - title: 
+    content: "Wszystko wydawa\u0142o si\u0119 spokojne, niemal sielskie. A potem
+      us\u0142ysza\u0142am to."
+    image: {fileID: 0}
+  - title: 
+    content: " Skowyt. Cichy, pe\u0142en b\xF3lu, przerwany nag\u0142ym cichym j\u0119kiem."
+    image: {fileID: 0}
+  - title: 
+    content: "Potem g\u0142uchy odg\u0142os uderzenia i zn\xF3w skowyt \u2014 tym
+      razem cichszy, bardziej rozpaczliwy."
+    image: {fileID: 0}
+  - title: 
+    content: "Potem g\u0142uchy odg\u0142os uderzenia i zn\xF3w skowyt \u2014 tym
+      razem cichszy, bardziej rozpaczliwy."
+    image: {fileID: 0}
+  - title: 
+    content: "Moje nogi zadr\u017Ca\u0142y."
+    image: {fileID: 0}
+  - title: 
+    content: "Nowe czerwone k\u0142\u0119bki zacz\u0119\u0142y si\u0119 formowa\u0107
+      w powietrzu, pulsuj\u0105c rytmem b\xF3lu, kt\xF3ry zna\u0142am a\u017C za
+      dobrze."
+    image: {fileID: 0}
+  - title: 
+    content: "Tylko \u017Ce tym razem nie by\u0142y to moje krzyki."
+    image: {fileID: 0}
+  - title: 
+    content: "\u201ENie\" \u2014 szepn\u0119\u0142am do siebie. \u201ENie znowu.\""
+    image: {fileID: 0}
+  - title: 
+    content: "Ale s\u0142uch, m\xF3j zdradziecki przyjaciel, ju\u017C prowadzi\u0142
+      mnie dalej w ogr\xF3d, ku \u017Ar\xF3d\u0142u tych d\u017Awi\u0119k\xF3w."
+    image: {fileID: 0}
+  - title: 
+    content: "Ku kolejnemu zagro\u017Ceniu, kt\xF3ry czeka cierpliwie, ironicznie,
+      bo nigdy nie okaza\u0142o cierpliwo\u015Bci dla swojego kundelka Kustosza."
+    image: {fileID: 0}
+  - title: 
+    content: "Chcia\u0142am wraca\u0107, ale mi\u015B dalej si\u0119 u\u015Bmiecha\u0142,
+      jakby zach\u0119caj\u0105c, aby wyp\u0142yn\u0105\u0107 dalej na bezkres cierpienia."
+    image: {fileID: 0}
