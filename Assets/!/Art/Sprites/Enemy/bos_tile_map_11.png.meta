@@ -835,7 +835,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bos_tile_map_11_0: -9066883200992320070
+      bos_tile_map_11_1: -7104272503995552255
+      bos_tile_map_11_10: -620057591899700675
+      bos_tile_map_11_11: -1229294359634406750
+      bos_tile_map_11_12: -2943467956269151944
+      bos_tile_map_11_13: 9164011743663340751
+      bos_tile_map_11_14: 3924990440050575170
+      bos_tile_map_11_15: -850446494634387790
+      bos_tile_map_11_16: -4946988284331583284
+      bos_tile_map_11_17: -5603873640338173974
+      bos_tile_map_11_18: 2037397295813673067
+      bos_tile_map_11_19: -5219163987457613833
+      bos_tile_map_11_2: 2950898066165972954
+      bos_tile_map_11_20: -7081506795846922136
+      bos_tile_map_11_21: 2809538147337456104
+      bos_tile_map_11_22: 1684260816260452990
+      bos_tile_map_11_23: -1223362731271204015
+      bos_tile_map_11_24: 9036585946369366538
+      bos_tile_map_11_25: -4979615441967457023
+      bos_tile_map_11_26: 594431747884712922
+      bos_tile_map_11_27: -8927385725310156045
+      bos_tile_map_11_3: 4605301254061531916
+      bos_tile_map_11_4: 1491290310486298916
+      bos_tile_map_11_5: 7946583467683627612
+      bos_tile_map_11_6: -8497616522139690594
+      bos_tile_map_11_7: 379952787843264255
+      bos_tile_map_11_8: 8277847003266311856
+      bos_tile_map_11_9: 1360286200178741246
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
