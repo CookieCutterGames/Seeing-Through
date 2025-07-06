@@ -50,6 +50,16 @@ public class UserInput : MonoBehaviour
         _attack2Action.Enable();
     }
 
+    public void EnableInteraction()
+    {
+        _interactAction.Enable();
+    }
+
+    public void DisableInteraction()
+    {
+        _interactAction.Disable();
+    }
+
     void SetupInputActions()
     {
         _moveAction = _playerInput.actions["Move"];

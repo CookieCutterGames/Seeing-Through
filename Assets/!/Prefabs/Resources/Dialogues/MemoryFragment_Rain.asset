@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8df1a38e97ae7d24ba0580ee8c917250, type: 3}
+  m_Name: MemoryFragment_Rain
+  m_EditorClassIdentifier: 
+  slides:
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Wieczorny deszcz by\u0142 moim ulubionym rozm\xF3wc\u0105."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Puka\u0142 w szyb\u0119 \u2014 czasem spokojnie, czasem nerwowo."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Mama m\xF3wi\u0142a, \u017Ce niebo p\u0142acze."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Ja s\u0142ysza\u0142am w tym \u015Bmiech."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Cichy, przemycony przez rynny i dach\xF3wki."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: "Specjalnie mocz\u0105cy beton, \u017Ceby rano dzieci mog\u0142y w ka\u0142u\u017Cach
+      krzycze\u0107 i pluska\u0107 z radosnym chichotem."
+    image: {fileID: 0}
+  - title: "\u201EDeszcz na betonie\u201D"
+    content: Deszcz na betonie. Deszcz. Deszcz na betonie.
+    image: {fileID: 0}

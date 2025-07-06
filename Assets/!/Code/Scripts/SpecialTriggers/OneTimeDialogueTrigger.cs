@@ -12,24 +12,32 @@ public class OneTimeDialogueTrigger : MonoBehaviour
 
     private void Interact()
     {
-        DialogueSystem.Show(
-            content,
-            isWelcomeDialogue
-                ? () =>
-                {
-                    GameObject level1 = GameObject.Find("Level1");
-                    if (level1 != null)
-                    {
-                        var triggers = level1.GetComponentsInChildren<TutorialPopupTrigger>(true);
-                        foreach (var trigger in triggers)
-                        {
-                            trigger.gameObject.SetActive(true);
-                        }
-                    }
-                }
-                : () => { }
-        );
+        Action onCompleteCallback = isWelcomeDialogue ? EnableTutorialPopupTriggers : () => { };
+        DialogueSystem.Show(content, onCompleteCallback);
         shown = true;
+    }
+
+    private void EnableTutorialPopupTriggers()
+    {
+        try
+        {
+            var triggers = FindObjectsByType<TutorialPopupTrigger>(
+                FindObjectsInactive.Include,
+                FindObjectsSortMode.None
+            );
+
+            foreach (var trigger in triggers)
+            {
+                if (trigger != null)
+                {
+                    trigger.gameObject.SetActive(true);
+                }
+            }
+        }
+        catch (Exception e)
+        {
+            Debug.LogError($"Failed to enable tutorial popup triggers: {e.Message}");
+        }
     }
 
     void OnTriggerEnter2D(Collider2D collision)

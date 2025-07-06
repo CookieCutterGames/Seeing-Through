@@ -20,6 +20,18 @@ public class DialogueUI : MonoBehaviour
     bool isTyping = false;
     string fullContent = "";
 
+    [Header("Audio")]
+    public AudioClip typingSound;
+    private AudioSource typingAudioSource;
+
+    void Awake()
+    {
+        typingAudioSource = gameObject.AddComponent<AudioSource>();
+        typingAudioSource.loop = true;
+        typingAudioSource.playOnAwake = false;
+        typingAudioSource.spatialBlend = 0f;
+    }
+
     public void Show(DialogueData dialogue, Action onComplete = null)
     {
         currentDialogue = dialogue;
@@ -72,11 +84,21 @@ public class DialogueUI : MonoBehaviour
         isTyping = true;
         fullContent = content;
         contentText.text = "";
+
+        if (typingSound != null && typingAudioSource != null)
+        {
+            typingAudioSource.clip = typingSound;
+            typingAudioSource.volume = AudioManager.Instance.MainVolume;
+            typingAudioSource.Play();
+        }
+
         foreach (char c in content)
         {
             contentText.text += c;
             yield return new WaitForSeconds(UnityEngine.Random.Range(0.01f, 0.1f));
         }
+
+        typingAudioSource.Stop();
         isTyping = false;
     }
 
@@ -87,6 +109,7 @@ public class DialogueUI : MonoBehaviour
             if (typingCoroutine != null)
                 StopCoroutine(typingCoroutine);
             contentText.text = fullContent;
+            typingAudioSource.Stop();
             isTyping = false;
         }
         else

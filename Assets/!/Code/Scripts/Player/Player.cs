@@ -9,6 +9,8 @@ public class Player : MonoBehaviour
 
     public bool isHoldingMug;
 
+    public bool isHiding;
+
     void Awake()
     {
         if (Instance != null && Instance != this)

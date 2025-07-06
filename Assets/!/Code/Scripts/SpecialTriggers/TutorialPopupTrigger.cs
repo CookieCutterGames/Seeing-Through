@@ -29,20 +29,15 @@ public class TutorialPopupTrigger : MonoBehaviour
 
         inputAction = UserInput.Instance.GetActionByName(inputActionName);
         inputAction.performed += HideTutorial;
-        inputAction.Enable();
-
-        UserInput.Instance.DisableMovement();
     }
 
     void HideTutorial(InputAction.CallbackContext ctx)
     {
         TutorialInformationSystem.Hide();
-        UserInput.Instance.EnableMovement();
 
         if (inputAction != null)
         {
             inputAction.performed -= HideTutorial;
-            inputAction.Disable();
             inputAction = null;
         }
 

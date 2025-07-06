@@ -1,3 +1,4 @@
+using Unity.Android.Types;
 using UnityEngine;
 
 public class GameplayManager : MonoBehaviour
@@ -20,12 +21,14 @@ public class GameplayManager : MonoBehaviour
     {
         UserInput.Instance.DisableMovement();
         UserInput.Instance.DisableAbilites();
+        UserInput.Instance.DisableInteraction();
     }
 
     public static void ResumeGame()
     {
         UserInput.Instance.EnableMovement();
         UserInput.Instance.EnableAbilites();
+        UserInput.Instance.EnableInteraction();
     }
 
     public void StartLevel()

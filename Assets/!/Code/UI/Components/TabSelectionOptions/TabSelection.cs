@@ -27,6 +27,7 @@ public class TabSelector : MonoBehaviour
 
     public void ChangeTab(int index)
     {
+        AudioManager.Instance.PlayChangePageEffect();
         container.GetChild(_currentIndex).gameObject.SetActive(false);
         _currentIndex = index;
         container.GetChild(_currentIndex).gameObject.SetActive(true);

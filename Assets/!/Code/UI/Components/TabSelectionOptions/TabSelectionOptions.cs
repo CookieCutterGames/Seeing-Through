@@ -17,8 +17,14 @@ public class TabSelectionOptions : MonoBehaviour
         ChangeTab(_defaultIndex);
     }
 
+    void OnEnable()
+    {
+        AudioManager.Instance.PlayChangePageEffect();
+    }
+
     public void ChangeTab(int index)
     {
+        AudioManager.Instance.PlayChangePageEffect();
         container.GetChild(_currentIndex).gameObject.SetActive(false);
         if (ColorUtility.TryParseHtmlString("#FFFFFF", out Color deactivatedColor))
         {

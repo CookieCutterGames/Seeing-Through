@@ -16,6 +16,8 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 targetVelocity;
 
     private bool IsMoving;
+
+    [SerializeField]
     Animator anim;
     private Vector2 lastMoveDirection;
     private bool facingLeft = false;
@@ -28,7 +30,7 @@ public class PlayerMovement : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        anim = GetComponent<Animator>();
+        anim = GetComponentInChildren<Animator>();
     }
 
     void FixedUpdate() { }

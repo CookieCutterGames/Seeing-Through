@@ -17,7 +17,13 @@ public class GameplayPauseMenuPanel : MonoBehaviour
     Button optionsBtn;
 
     [SerializeField]
+    Button memoriesListBtn;
+
+    [SerializeField]
     Button hudButton;
+
+    [SerializeField]
+    GameObject memoriesListPanel;
 
     [SerializeField]
     GameObject optionsPanel;
@@ -44,13 +50,18 @@ public class GameplayPauseMenuPanel : MonoBehaviour
         transform.GetChild(1).gameObject.SetActive(true);
         transform.localScale.Set(0, 1, 1);
         expandPanel();
+        GameplayManager.PauseGame();
+        AudioManager.Instance.PlayChangePageEffect();
     }
 
     public void Hide()
     {
         transform.localScale.Set(0, 1, 1);
         transform.GetChild(1).gameObject.SetActive(false);
-        UserInput.Instance.EnableMovement();
+        GameplayManager.ResumeGame();
+        optionsPanel.SetActive(false);
+        memoriesListPanel.SetActive(false);
+        AudioManager.Instance.PlayChangePageEffect();
     }
 
     void Start()
@@ -58,7 +69,7 @@ public class GameplayPauseMenuPanel : MonoBehaviour
         resume.onClick.AddListener(
             delegate
             {
-                gameObject.SetActive(false);
+                GameplayPauseMenuSystem.Hide();
             }
         );
         mainMenu.onClick.AddListener(
@@ -77,6 +88,12 @@ public class GameplayPauseMenuPanel : MonoBehaviour
             delegate
             {
                 optionsPanel.SetActive(true);
+            }
+        );
+        memoriesListBtn.onClick.AddListener(
+            delegate
+            {
+                memoriesListPanel.SetActive(true);
             }
         );
         if (hudButton == null)

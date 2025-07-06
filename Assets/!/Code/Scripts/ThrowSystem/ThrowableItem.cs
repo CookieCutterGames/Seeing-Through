@@ -20,6 +20,7 @@ public class ThrowableItem : MonoBehaviour
 
         Player.Instance.isHoldingMug = true;
         gameObject.SetActive(false);
+        AudioManager.Instance.PlaySound(AudioManager.Instance.pickupSoundEffect);
         UIManager.Instance.TurnOffInteractionIndicator();
     }
 

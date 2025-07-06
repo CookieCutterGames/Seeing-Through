@@ -18,7 +18,6 @@ public static class TutorialInformationSystem
     public static void Hide()
     {
         tutorialInformationPanel?.Hide();
-        GameplayManager.ResumeGame();
         isActive = false;
     }
 

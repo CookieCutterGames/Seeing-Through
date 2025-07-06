@@ -90,14 +90,13 @@ public class TutorialInformationPanel : MonoBehaviour
                 isAnimating = false;
                 smallestPanel.gameObject.SetActive(false);
             });
-        UserInput.Instance.EnableMovement();
     }
 
-    private string TranslateBindingName(string binding)
+    public static string TranslateBindingName(string binding)
     {
         binding = binding.ToLowerInvariant().Trim();
 
-        if (binding.Contains("right") && binding.Contains("mouse"))
+        if (binding.Contains("right") && (binding.Contains("mouse") || binding.Contains("button")))
             return "prawy przycisk myszy";
         if (binding.Contains("left") && binding.Contains("mouse"))
             return "lewy przycisk myszy";

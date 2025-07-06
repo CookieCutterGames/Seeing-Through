@@ -11,21 +11,34 @@ public class MemoryTrigger : MonoBehaviour
 
     bool userInRange;
 
+    [SerializeField]
+    bool shouldCount = true;
+
+    [SerializeField]
+    bool isInteractable = true;
+
     void Start()
     {
         if (PlayerMemoryController.capturedMemory.ContainsKey(memoryID))
         {
             gameObject.SetActive(false);
         }
-        UserInput.Instance._interactAction.performed += Interact;
+        if (isInteractable)
+            UserInput.Instance._interactAction.performed += InteractPerformed;
     }
 
-    private void Interact(InputAction.CallbackContext context)
+    private void InteractPerformed(InputAction.CallbackContext context)
+    {
+        Interact();
+    }
+
+    private void Interact()
     {
         if (!userInRange)
             return;
         DialogueSystem.Show(memory);
-        PlayerMemoryController.capturedMemory.Add(memoryID, memory);
+        if (shouldCount)
+            PlayerMemoryController.capturedMemory.Add(memoryID, memory);
         GameObject.Find("DefaultUI").GetComponentInChildren<MemoryFoundAnimation>().PlayAnimation();
         AudioManager.Instance.PlayMemoryFragment();
         gameObject.SetActive(false);
@@ -36,7 +49,14 @@ public class MemoryTrigger : MonoBehaviour
         if (collision.CompareTag("Player"))
         {
             userInRange = true;
-            UIManager.Instance.TurnOnInteractionIndicator();
+            if (!isInteractable)
+            {
+                Interact();
+            }
+            else
+            {
+                UIManager.Instance.TurnOnInteractionIndicator();
+            }
         }
     }
 

@@ -80,7 +80,7 @@ public class TextSequenceManager : MonoBehaviour
             dialogueText.text += c;
 
             if (!inRichText)
-                yield return new WaitForSeconds(Random.Range(0.0f, 0.0f));
+                yield return new WaitForSeconds(Random.Range(0.01f, 0.08f));
         }
 
         typingCoroutine = null;

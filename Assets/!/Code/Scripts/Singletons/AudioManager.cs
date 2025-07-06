@@ -55,6 +55,9 @@ public class AudioManager : MonoBehaviour
 
     [SerializeField]
     private AudioClip[] doorSoundsEffect;
+    public AudioClip pickupSoundEffect;
+
+    public AudioClip changePageSoundEffect;
     private bool playingMemory;
     #region SingletonRegion
     public static AudioManager Instance { get; private set; }
@@ -122,6 +125,11 @@ public class AudioManager : MonoBehaviour
         musicAudioSource.clip = musicClip;
         musicAudioSource.volume = (_musicVolume * MainVolume);
         musicAudioSource.Play();
+    }
+
+    public void PlayChangePageEffect()
+    {
+        PlaySound(changePageSoundEffect);
     }
 
     public void PlayMemoryFragment()

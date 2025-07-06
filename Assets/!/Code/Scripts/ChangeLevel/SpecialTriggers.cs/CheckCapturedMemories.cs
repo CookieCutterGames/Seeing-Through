@@ -6,7 +6,7 @@ public class CheckCapturedMemories : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            if (PlayerMemoryController.totalMemories <= 2)
+            if (PlayerMemoryController.capturedMemory.Count <= 2)
             {
                 InGameInformationSystem.Show(
                     "",
