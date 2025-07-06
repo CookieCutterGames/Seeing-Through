@@ -1,0 +1,1730 @@
+fileFormatVersion: 2
+guid: c8ae1be36cbf2b344bbe183e5e6c5ebc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6380151672417149506
+    second: plac_zabaw_przed_szkoa_pogloga_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd16708bd52577a0800000000000000
+      internalID: -6380151672417149506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c18277f3cbae46afbbd8846a790ae
+      internalID: 1948468766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5d44437154e1e459d65653fd0ca66e
+      internalID: -1002239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b2dc83fe0be0041b2b89d3156a56e2
+      internalID: -408306112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b4baf200c3af140b57d352490877b4
+      internalID: -1172776659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99e81ae2137b954b839ac68e7a8afe0
+      internalID: -1024412553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427a92c55917114e8dece4ed91ccbed
+      internalID: 883766051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff203f2929885574e923262d96a55544
+      internalID: 392300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba82ed8d5d448054e8fc6373371db56f
+      internalID: -1284280961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ffbdfbde7058248b6f10a68fadb1df
+      internalID: 48166405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db8d34707106d24b918831b9b229412
+      internalID: 1121103052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a64f265ffc91b540a8d8716157e99a1
+      internalID: -415209474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ffac4aadc2ec46953578a010b8a53
+      internalID: 546774110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_13
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ddb5b43edb82546a191be19e397c5f
+      internalID: -1094945590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee4ef17790de3d4990021772e717278
+      internalID: -1196682129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41dc0c9f060b094ab8b2a2a1f17a36a
+      internalID: -592564157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b21931d0c0025449887808b0b1f568
+      internalID: -2017933143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93902933968b1064e86bf0e40f7900a6
+      internalID: -2073142502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74c5abbd2774f442808ba844a279978
+      internalID: 902707463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65775d344d796d4a8b35e7bbd0bf8ee
+      internalID: -207197829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce7ccedc996d7449840bf2dccbdc86
+      internalID: -1367903278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca13b29a85fa11e48bb0852d601bb82b
+      internalID: 985075514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172c7501256e1a4199573c9b56b9e74
+      internalID: 956565932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cbc79e28a12ad40b748de1c274bff4
+      internalID: -459213175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee09538e4b7a13947bab6fa2a96eb0e3
+      internalID: 143800115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb13ed04513db54f8d18dc22964e06f
+      internalID: -548812261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a832ebd1d10999349b71999ed466ab47
+      internalID: -1257169937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_27
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50c1c15d8dbd5a4d91d252d4bd00f6c
+      internalID: -171472085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01b3aa31d3948469958e08f81fe09d
+      internalID: -981107809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83acf2ecd940c0f4ab90e6e8f544a880
+      internalID: 1036297120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b347e8e9cc08fe4e8c0a370686c7e0c
+      internalID: 579239261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f10f09fced0cf47a74e722ebeeef6e
+      internalID: 1600758030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06249e61c323554a8b6b46d28662ef0
+      internalID: 363380696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea16754698a33346b591bb59ff3b68f
+      internalID: 692671305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_34
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2b4ea05475474ebdafa6026a56348
+      internalID: 1789595788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59372514d0178284ea39ca298403b23b
+      internalID: 1574040978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de14e4c8ed09bb54f803df0279139b73
+      internalID: -1173793661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_37
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409e3f0ae58497c4cbdc72aaf8ce7389
+      internalID: 1939266249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_38
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae12cceace9de249999ec96554c5475
+      internalID: 2080391319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_39
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07802e06e3940504783b92e61b4aff32
+      internalID: 594294220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_40
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb467f2d23afff145a3035058fa16aa2
+      internalID: -1457996843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_41
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8811547ea2af0448780bdbb3053679
+      internalID: -430100228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7980cdef93838d440be68f414a5639c0
+      internalID: 442525494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793cec7a2304031499dd7a7e3ba807c1
+      internalID: -1545675233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701de82abd6ca0e4496af7543960066d
+      internalID: -1179897321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f2195a5a0a20f41853c2c635aeacf2
+      internalID: -858133667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9982d8210c7469d4a8272ce17a2f9e8d
+      internalID: -1156174232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_47
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0d68a128b858e42b247e9c9a062dab
+      internalID: -2099038163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_48
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50ede17f2e00f04c8d340e451abd36c
+      internalID: 380942553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_49
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d500d4d253710f40b4c651a18720c21
+      internalID: -1606898985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_50
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac045dd87f8b29f49840a3cad932151d
+      internalID: 1147068485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_51
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0d08974151dfe469d98e0379aaed53
+      internalID: -1369169477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbb926bb69cf234e9b6667c30b59b52
+      internalID: 665905948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27cf42cb74bd8141b57b8470f2b6be3
+      internalID: -1800525080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d784075630ded4bbc4396964d9ca76
+      internalID: -1881167875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_55
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0fa577bc92cbfe4a9f968d65e34051c
+      internalID: 874242890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56fc505918e12442adae032581a64e5
+      internalID: -1523075656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_57
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1898984aebbc632499da7f55432c5021
+      internalID: 1845295490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_58
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d0a65a1448aef49aefb6bfebbac43c
+      internalID: -152964925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb3955d4a0a7194299c04793a352341
+      internalID: -1553221044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569caee86c8cd4e4ba41c3501509cc8b
+      internalID: -1983588223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1032aee5482de9040bb6f990c45b3433
+      internalID: 1478310477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a79f4a294cfcf41988b70ea2187524
+      internalID: 1526701167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_63
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517f803b70b4a2042977526fea5d8962
+      internalID: 1155502130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_64
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf3613e552fdc648a8af2cadb7db8c0
+      internalID: 654457207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_65
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624cf8131b23d1e4eaed8e192ac857ea
+      internalID: -751027717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_66
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cb68a4c0786b644a43b63f6fcdc1bc
+      internalID: 2048438499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_67
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98028795b016bfd4ba30ee8a90c7c39a
+      internalID: -1157344032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c5b4d8cef068f41a852ef589001264
+      internalID: -1181269442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_pogloga_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618cacccf545be743a2d50e7b0aa736d
+      internalID: -222287715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6b1a110ca306f51439a8c1ef41711bb1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plac_zabaw_przed_szkoa_pogloga_0: -6380151672417149506
+      plac_zabaw_przed_szkoa_pogloga_1: 1948468766
+      plac_zabaw_przed_szkoa_pogloga_10: 1121103052
+      plac_zabaw_przed_szkoa_pogloga_11: -415209474
+      plac_zabaw_przed_szkoa_pogloga_12: 546774110
+      plac_zabaw_przed_szkoa_pogloga_13: -1094945590
+      plac_zabaw_przed_szkoa_pogloga_14: -1196682129
+      plac_zabaw_przed_szkoa_pogloga_15: -592564157
+      plac_zabaw_przed_szkoa_pogloga_16: -2017933143
+      plac_zabaw_przed_szkoa_pogloga_17: -2073142502
+      plac_zabaw_przed_szkoa_pogloga_18: 902707463
+      plac_zabaw_przed_szkoa_pogloga_19: -207197829
+      plac_zabaw_przed_szkoa_pogloga_2: -1002239566
+      plac_zabaw_przed_szkoa_pogloga_20: -1367903278
+      plac_zabaw_przed_szkoa_pogloga_21: 985075514
+      plac_zabaw_przed_szkoa_pogloga_22: 956565932
+      plac_zabaw_przed_szkoa_pogloga_23: -459213175
+      plac_zabaw_przed_szkoa_pogloga_24: 143800115
+      plac_zabaw_przed_szkoa_pogloga_25: -548812261
+      plac_zabaw_przed_szkoa_pogloga_26: -1257169937
+      plac_zabaw_przed_szkoa_pogloga_27: -171472085
+      plac_zabaw_przed_szkoa_pogloga_28: -981107809
+      plac_zabaw_przed_szkoa_pogloga_29: 1036297120
+      plac_zabaw_przed_szkoa_pogloga_3: -408306112
+      plac_zabaw_przed_szkoa_pogloga_30: 579239261
+      plac_zabaw_przed_szkoa_pogloga_31: 1600758030
+      plac_zabaw_przed_szkoa_pogloga_32: 363380696
+      plac_zabaw_przed_szkoa_pogloga_33: 692671305
+      plac_zabaw_przed_szkoa_pogloga_34: 1789595788
+      plac_zabaw_przed_szkoa_pogloga_35: 1574040978
+      plac_zabaw_przed_szkoa_pogloga_36: -1173793661
+      plac_zabaw_przed_szkoa_pogloga_37: 1939266249
+      plac_zabaw_przed_szkoa_pogloga_38: 2080391319
+      plac_zabaw_przed_szkoa_pogloga_39: 594294220
+      plac_zabaw_przed_szkoa_pogloga_4: -1172776659
+      plac_zabaw_przed_szkoa_pogloga_40: -1457996843
+      plac_zabaw_przed_szkoa_pogloga_41: -430100228
+      plac_zabaw_przed_szkoa_pogloga_42: 442525494
+      plac_zabaw_przed_szkoa_pogloga_43: -1545675233
+      plac_zabaw_przed_szkoa_pogloga_44: -1179897321
+      plac_zabaw_przed_szkoa_pogloga_45: -858133667
+      plac_zabaw_przed_szkoa_pogloga_46: -1156174232
+      plac_zabaw_przed_szkoa_pogloga_47: -2099038163
+      plac_zabaw_przed_szkoa_pogloga_48: 380942553
+      plac_zabaw_przed_szkoa_pogloga_49: -1606898985
+      plac_zabaw_przed_szkoa_pogloga_5: -1024412553
+      plac_zabaw_przed_szkoa_pogloga_50: 1147068485
+      plac_zabaw_przed_szkoa_pogloga_51: -1369169477
+      plac_zabaw_przed_szkoa_pogloga_52: 665905948
+      plac_zabaw_przed_szkoa_pogloga_53: -1800525080
+      plac_zabaw_przed_szkoa_pogloga_54: -1881167875
+      plac_zabaw_przed_szkoa_pogloga_55: 874242890
+      plac_zabaw_przed_szkoa_pogloga_56: -1523075656
+      plac_zabaw_przed_szkoa_pogloga_57: 1845295490
+      plac_zabaw_przed_szkoa_pogloga_58: -152964925
+      plac_zabaw_przed_szkoa_pogloga_59: -1553221044
+      plac_zabaw_przed_szkoa_pogloga_6: 883766051
+      plac_zabaw_przed_szkoa_pogloga_60: -1983588223
+      plac_zabaw_przed_szkoa_pogloga_61: 1478310477
+      plac_zabaw_przed_szkoa_pogloga_62: 1526701167
+      plac_zabaw_przed_szkoa_pogloga_63: 1155502130
+      plac_zabaw_przed_szkoa_pogloga_64: 654457207
+      plac_zabaw_przed_szkoa_pogloga_65: -751027717
+      plac_zabaw_przed_szkoa_pogloga_66: 2048438499
+      plac_zabaw_przed_szkoa_pogloga_67: -1157344032
+      plac_zabaw_przed_szkoa_pogloga_68: -1181269442
+      plac_zabaw_przed_szkoa_pogloga_69: -222287715
+      plac_zabaw_przed_szkoa_pogloga_7: 392300350
+      plac_zabaw_przed_szkoa_pogloga_8: -1284280961
+      plac_zabaw_przed_szkoa_pogloga_9: 48166405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

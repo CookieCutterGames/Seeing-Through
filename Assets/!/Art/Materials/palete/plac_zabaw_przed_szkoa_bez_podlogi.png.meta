@@ -1,0 +1,2081 @@
+fileFormatVersion: 2
+guid: af6924b594d592e45881f7fd1a2eb717
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4699514471096027640
+    second: plac_zabaw_przed_szkoa_bez_podlogi_0
+  - first:
+      213: -7371401427959829546
+    second: plac_zabaw_przed_szkoa_bez_podlogi_1
+  - first:
+      213: -2037892884577926010
+    second: plac_zabaw_przed_szkoa_bez_podlogi_2
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f98c7a2387083140800000000000000
+      internalID: 4699514471096027640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dba5a5e47583b990800000000000000
+      internalID: -7371401427959829546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684cf6cf733f7b3e0800000000000000
+      internalID: -2037892884577926010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_3
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c65ac24c96e1f2449e62e117b94e9fb
+      internalID: -1868529470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8154980c96a34564896b60a12745d639
+      internalID: -2086334797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dccec4dd8769934485cbefa3c303ebe
+      internalID: -2057930745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_6
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed60dc015c87f246982e54ce732c862
+      internalID: 1086524885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_7
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c355c280e4206574b80b87989c9734b5
+      internalID: 1873565652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e47a84a16c7624babaa42750bc16f7
+      internalID: -1473354695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_9
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b65de4d223859a439e6170e7c7601eb
+      internalID: -855236758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3dd253555149744a8e6ae8aec402fc2
+      internalID: 120433424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c407e936e32944da1458a5840c773a
+      internalID: -546130256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f549dcf7be83b45862b6357bacc1c0
+      internalID: -31504530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_13
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1164
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20971960999314d488fbcb5eb030fc8d
+      internalID: -252069528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1e0e043ea217247bff252b08eb3acb
+      internalID: 207661988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365057661c49ca245ab1fdd49be5c706
+      internalID: 1299790102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469d59fc462133943922f66f0ec0a221
+      internalID: -1946235993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58db94d32b6304e8c9b068afa9c257
+      internalID: -1054523778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a28ad26fe54a7b4b865e48671ebd804
+      internalID: -902812569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_19
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dcf11d414da364e87edf7f0e489ea6
+      internalID: -1705074839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2883c63efa2e2364da3b06cbe66a57ed
+      internalID: 1181898114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_21
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c3945812dd96944adbf994395ccc8d
+      internalID: 613339585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c91118273b44e34a8ca8548c0651e7f
+      internalID: 964514014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_23
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f436b5201124ed241aeffc4d15eda1f0
+      internalID: -263693410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_24
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d71fd19878eae419aecb04498062d7
+      internalID: 415833231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_25
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b249487eec474e41b87ef1fa2403d7a
+      internalID: -1144140055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_26
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ae9b1cd95d48d4589d3692a7acc480
+      internalID: -207928469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_27
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1100
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef44cf6c6f3e9a949b852cbc069c5529
+      internalID: -930121291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f8714a0742384ab582ad67941cc56
+      internalID: -718336183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a004c0f8a953842b0a4bcaa6ae8980
+      internalID: 576179638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c9ee89ac2c5cc4aba08eec37ba66e2
+      internalID: 1238704082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12b549c7ebab184e80ba8876e11c06c
+      internalID: -104203435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_32
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7ea5cbf13b86469e7f20c5a2a8510
+      internalID: 457144829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85d7d3a272b82a46b02e76b4e1e9fd3
+      internalID: -1928742594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b79bc00c2a5745aaf4da7e9b2c268
+      internalID: -1562968756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_35
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a2fca66ee753442897686aacc95211
+      internalID: -619901131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda0ce91d5e76d74f9fecabeb400b143
+      internalID: 169643850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_37
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7ea912b765287439c3a13faeb3def1
+      internalID: -535134620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_38
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18fc271a57a8fec42a26b5be3cbb2d53
+      internalID: 642579121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_39
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e4148881c531a4084a3b7bc84ffe51
+      internalID: -669874906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_40
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d9e80d07c555e40a40f6eaa50fae7b
+      internalID: 373693974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da7e61233183846ac1456ebf330e36
+      internalID: -1417682290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_42
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e35a2fe9e96f4d93494bcbeda2ea4
+      internalID: 1042214162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_43
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1036
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f599b50a84a931442b6491d17f6210e3
+      internalID: -418181890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1882ffe5bc11354b802938f0229c54e
+      internalID: 272776854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_45
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb047a2605759914fade20601af9464f
+      internalID: -2126753658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0e67b9f9003b54bb21cd8e5aa1aded
+      internalID: 912844282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027fe422046c8894d95a5ab7e93769a7
+      internalID: -28089401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_48
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfddd0d27fc6c449fd87f9f3fc5669
+      internalID: 1603251821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_49
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fabe6e1dcb77c1458e26aa762fc2d12
+      internalID: 1046030796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_50
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f381ebcd9761a41931d726209c44c3
+      internalID: -1680262607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_51
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0534b43054bf33240b0bf8149ef2a4f5
+      internalID: 535890564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_52
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bef39b5594b70469807768e34b60a8
+      internalID: -721925210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_53
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 972
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbceadd5410b8943842b28be829fbeb
+      internalID: 2053002914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_54
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7eeb8c878c8e439b03d4f2fab4eb0
+      internalID: -1852733188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2b85f8d7acdfa4aad5c13a2bb46249
+      internalID: 968758707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_56
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b11c81a0855204cbad896f2a025945
+      internalID: 659034970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_57
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace01ed2fd5a0f947afa8aba4b5122e7
+      internalID: -679362574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_58
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907792338a76e5f4ea627a50e8c05002
+      internalID: 143345573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85673ebc5be00b44921344ecb48a16c
+      internalID: 994163835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11b8b0a62407394b91b904211b492ea
+      internalID: -1658869022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_61
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d14a1e7ead7724595eac37b2b4ad73
+      internalID: -434926722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 908
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b5d2a88845b134b9a67d2b6e4877ed
+      internalID: -1013273351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c22e833676358b4faa9aec0ee16e074
+      internalID: -1143619105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_64
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832c6f9b71920cb478eab542968b77bf
+      internalID: -2087260963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_65
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72962bf44be75464eb228cb1d3db51d2
+      internalID: 110300708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_66
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614869c30ca600045808c05fdbf04647
+      internalID: -369472038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_67
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76db5d900604ecc46b54b4de47a9c832
+      internalID: -302739487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133ec0401bb13c545827daf9eaae8b50
+      internalID: -646158165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea10e1d08f025bd49a9218474126928a
+      internalID: 1888598375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_70
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 844
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44bc9fb33d797e46b6a31a3776a3cff
+      internalID: 440520056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cac4ab9a2fd1040a45a22861cd51e3
+      internalID: 627979326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbc6fb8f6901124e89d4a7b21e0d390
+      internalID: 672948069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_73
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934fc59c2f218f84dad865a13e8c660e
+      internalID: 1542778925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_74
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdae2aefb7512f0438dbb2968e825f8a
+      internalID: 2034750112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_75
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4d4f1b92413664caa1dbcf1ee6115c
+      internalID: -1413508294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_76
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4316de2b588b2f448a6f324e249c013f
+      internalID: -1584783101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_77
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cab51008ab16f24aa25942ca4b5bc9b
+      internalID: -403932226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_78
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6af462eaa6e2a46990ab91e3f7ff86
+      internalID: -1941286785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_79
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89fc09e46d14a7047b09d8f7ba20a973
+      internalID: 1806151302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_80
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a6a9166c36c104428a765d17821e104
+      internalID: -1978934039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_81
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94aa8999c63d44589d7217fa534b30
+      internalID: -1282632150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_82
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1163d4fc8464d48918934a924068e0
+      internalID: -2027031528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3482423c3308104a935149f61968e8a
+      internalID: -12628748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plac_zabaw_przed_szkoa_bez_podlogi_84
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 780
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434f7120dcfe7184185bdd2a872a71c8
+      internalID: 1960952892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 39d637dc69412524cb21c02b2355f018
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plac_zabaw_przed_szkoa_bez_podlogi_0: 4699514471096027640
+      plac_zabaw_przed_szkoa_bez_podlogi_1: -7371401427959829546
+      plac_zabaw_przed_szkoa_bez_podlogi_10: 120433424
+      plac_zabaw_przed_szkoa_bez_podlogi_11: -546130256
+      plac_zabaw_przed_szkoa_bez_podlogi_12: -31504530
+      plac_zabaw_przed_szkoa_bez_podlogi_13: -252069528
+      plac_zabaw_przed_szkoa_bez_podlogi_14: 207661988
+      plac_zabaw_przed_szkoa_bez_podlogi_15: 1299790102
+      plac_zabaw_przed_szkoa_bez_podlogi_16: -1946235993
+      plac_zabaw_przed_szkoa_bez_podlogi_17: -1054523778
+      plac_zabaw_przed_szkoa_bez_podlogi_18: -902812569
+      plac_zabaw_przed_szkoa_bez_podlogi_19: -1705074839
+      plac_zabaw_przed_szkoa_bez_podlogi_2: -2037892884577926010
+      plac_zabaw_przed_szkoa_bez_podlogi_20: 1181898114
+      plac_zabaw_przed_szkoa_bez_podlogi_21: 613339585
+      plac_zabaw_przed_szkoa_bez_podlogi_22: 964514014
+      plac_zabaw_przed_szkoa_bez_podlogi_23: -263693410
+      plac_zabaw_przed_szkoa_bez_podlogi_24: 415833231
+      plac_zabaw_przed_szkoa_bez_podlogi_25: -1144140055
+      plac_zabaw_przed_szkoa_bez_podlogi_26: -207928469
+      plac_zabaw_przed_szkoa_bez_podlogi_27: -930121291
+      plac_zabaw_przed_szkoa_bez_podlogi_28: -718336183
+      plac_zabaw_przed_szkoa_bez_podlogi_29: 576179638
+      plac_zabaw_przed_szkoa_bez_podlogi_3: -1868529470
+      plac_zabaw_przed_szkoa_bez_podlogi_30: 1238704082
+      plac_zabaw_przed_szkoa_bez_podlogi_31: -104203435
+      plac_zabaw_przed_szkoa_bez_podlogi_32: 457144829
+      plac_zabaw_przed_szkoa_bez_podlogi_33: -1928742594
+      plac_zabaw_przed_szkoa_bez_podlogi_34: -1562968756
+      plac_zabaw_przed_szkoa_bez_podlogi_35: -619901131
+      plac_zabaw_przed_szkoa_bez_podlogi_36: 169643850
+      plac_zabaw_przed_szkoa_bez_podlogi_37: -535134620
+      plac_zabaw_przed_szkoa_bez_podlogi_38: 642579121
+      plac_zabaw_przed_szkoa_bez_podlogi_39: -669874906
+      plac_zabaw_przed_szkoa_bez_podlogi_4: -2086334797
+      plac_zabaw_przed_szkoa_bez_podlogi_40: 373693974
+      plac_zabaw_przed_szkoa_bez_podlogi_41: -1417682290
+      plac_zabaw_przed_szkoa_bez_podlogi_42: 1042214162
+      plac_zabaw_przed_szkoa_bez_podlogi_43: -418181890
+      plac_zabaw_przed_szkoa_bez_podlogi_44: 272776854
+      plac_zabaw_przed_szkoa_bez_podlogi_45: -2126753658
+      plac_zabaw_przed_szkoa_bez_podlogi_46: 912844282
+      plac_zabaw_przed_szkoa_bez_podlogi_47: -28089401
+      plac_zabaw_przed_szkoa_bez_podlogi_48: 1603251821
+      plac_zabaw_przed_szkoa_bez_podlogi_49: 1046030796
+      plac_zabaw_przed_szkoa_bez_podlogi_5: -2057930745
+      plac_zabaw_przed_szkoa_bez_podlogi_50: -1680262607
+      plac_zabaw_przed_szkoa_bez_podlogi_51: 535890564
+      plac_zabaw_przed_szkoa_bez_podlogi_52: -721925210
+      plac_zabaw_przed_szkoa_bez_podlogi_53: 2053002914
+      plac_zabaw_przed_szkoa_bez_podlogi_54: -1852733188
+      plac_zabaw_przed_szkoa_bez_podlogi_55: 968758707
+      plac_zabaw_przed_szkoa_bez_podlogi_56: 659034970
+      plac_zabaw_przed_szkoa_bez_podlogi_57: -679362574
+      plac_zabaw_przed_szkoa_bez_podlogi_58: 143345573
+      plac_zabaw_przed_szkoa_bez_podlogi_59: 994163835
+      plac_zabaw_przed_szkoa_bez_podlogi_6: 1086524885
+      plac_zabaw_przed_szkoa_bez_podlogi_60: -1658869022
+      plac_zabaw_przed_szkoa_bez_podlogi_61: -434926722
+      plac_zabaw_przed_szkoa_bez_podlogi_62: -1013273351
+      plac_zabaw_przed_szkoa_bez_podlogi_63: -1143619105
+      plac_zabaw_przed_szkoa_bez_podlogi_64: -2087260963
+      plac_zabaw_przed_szkoa_bez_podlogi_65: 110300708
+      plac_zabaw_przed_szkoa_bez_podlogi_66: -369472038
+      plac_zabaw_przed_szkoa_bez_podlogi_67: -302739487
+      plac_zabaw_przed_szkoa_bez_podlogi_68: -646158165
+      plac_zabaw_przed_szkoa_bez_podlogi_69: 1888598375
+      plac_zabaw_przed_szkoa_bez_podlogi_7: 1873565652
+      plac_zabaw_przed_szkoa_bez_podlogi_70: 440520056
+      plac_zabaw_przed_szkoa_bez_podlogi_71: 627979326
+      plac_zabaw_przed_szkoa_bez_podlogi_72: 672948069
+      plac_zabaw_przed_szkoa_bez_podlogi_73: 1542778925
+      plac_zabaw_przed_szkoa_bez_podlogi_74: 2034750112
+      plac_zabaw_przed_szkoa_bez_podlogi_75: -1413508294
+      plac_zabaw_przed_szkoa_bez_podlogi_76: -1584783101
+      plac_zabaw_przed_szkoa_bez_podlogi_77: -403932226
+      plac_zabaw_przed_szkoa_bez_podlogi_78: -1941286785
+      plac_zabaw_przed_szkoa_bez_podlogi_79: 1806151302
+      plac_zabaw_przed_szkoa_bez_podlogi_8: -1473354695
+      plac_zabaw_przed_szkoa_bez_podlogi_80: -1978934039
+      plac_zabaw_przed_szkoa_bez_podlogi_81: -1282632150
+      plac_zabaw_przed_szkoa_bez_podlogi_82: -2027031528
+      plac_zabaw_przed_szkoa_bez_podlogi_83: -12628748
+      plac_zabaw_przed_szkoa_bez_podlogi_84: 1960952892
+      plac_zabaw_przed_szkoa_bez_podlogi_9: -855236758
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
